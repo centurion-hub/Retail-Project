@@ -10,7 +10,7 @@ The code demonstrates the full pipeline from **feature engineering** → **trunc
 Retail-FlashSale-Prediction/
 │
 ├── data/
-│   └── demo_flashion_data_200.csv   # Demo dataset (sampled)
+│   └── demo_flashion_data.csv   # Demo dataset (sampled)
 │
 ├── src/
 │   └── retail_flashsale_demo.py     # End-to-end pipeline script
