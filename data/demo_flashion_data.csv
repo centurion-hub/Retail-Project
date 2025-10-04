@@ -1,0 +1,201 @@
+Style#,Event#,Starting Inventory,Quantity Sold,Cost,Price,MSRP,Department,Month,Event Start Time,Event Start DOW,Shipping Method
+30247,325,161,161,12,14.99,102,Women's Apparel,Oct,10:00:00,Tuesday,D
+15971,425,158,158,10,14.99,66,Women's Apparel,Nov,17:00:00,Wednesday,D
+9664,254,152,152,8,9.99,58,Footwear,Oct,10:00:00,Saturday,F
+25822,309,151,151,7,9.99,49,Footwear,Oct,10:00:00,Friday,F
+16829,289,147,147,5,9.99,46,Footwear,Oct,10:00:00,Wednesday,F
+19116,294,146,146,5,9.99,33,Footwear,Oct,10:00:00,Monday,F
+20386,940,144,144,10,9.99,70,Women's Apparel,Nov,10:00:00,Thursday,F
+13457,839,143,143,88,109.99,515,Women's Apparel,Dec,10:00:00,Sunday,F
+22111,260,141,141,10,9.99,85,Footwear,Oct,10:00:00,Wednesday,F
+20243,320,141,141,20,24.99,85,Women's Apparel,Nov,17:00:00,Tuesday,F
+29482,166,138,138,67,84.99,253,Men's Apparel,Nov,17:00:00,Wednesday,F
+22252,270,137,137,21,24.99,64,Footwear,Oct,10:00:00,Friday,F
+22338,945,147,136,10,9.99,85,Women's Apparel,Nov,10:00:00,Wednesday,F
+25271,360,136,136,12,14.99,90,Women's Apparel,Oct,10:00:00,Tuesday,F
+20042,395,136,136,15,19.99,107,Women's Apparel,Oct,10:00:00,Thursday,F
+20441,720,134,134,14,19.99,77,Women's Apparel,Oct,10:00:00,Saturday,F
+8211,284,133,133,7,9.99,41,Footwear,Oct,10:00:00,Monday,F
+29514,823,133,133,105,134.99,411,Women's Apparel,Dec,10:00:00,Monday,F
+3411,309,132,132,10,14.99,75,Footwear,Oct,10:00:00,Friday,F
+17161,405,132,132,27,29.99,72,Women's Apparel,Nov,17:00:00,Tuesday,F
+24989,224,131,131,7,9.99,34,Footwear,Oct,10:00:00,Sunday,F
+20338,101,131,131,44,54.99,145,Men's Apparel,Dec,10:00:00,Thursday,F
+13622,877,131,131,93,114.99,345,Women's Apparel,Nov,17:00:00,Tuesday,F
+7760,800,130,130,18,19.99,89,Women's Apparel,Nov,17:00:00,Saturday,D
+23085,830,130,130,20,29.99,87,Women's Apparel,Nov,17:00:00,Wednesday,F
+23206,420,130,130,34,39.99,127,Women's Apparel,Oct,10:00:00,Monday,F
+8020,516,130,130,52,64.99,221,Women's Apparel,Oct,10:00:00,Saturday,F
+28379,361,130,130,52,69.99,172,Women's Apparel,Nov,17:00:00,Tuesday,F
+25176,145,129,129,10,9.99,61,Men's Apparel,Oct,10:00:00,Tuesday,F
+23296,230,129,129,31,39.99,130,Footwear,Oct,10:00:00,Monday,F
+20641,806,129,129,101,134.99,279,Women's Apparel,Dec,10:00:00,Wednesday,F
+20930,234,128,128,8,9.99,26,Footwear,Nov,17:00:00,Tuesday,F
+15409,274,128,128,5,9.99,46,Footwear,Nov,17:00:00,Thursday,F
+6271,380,128,128,17,19.99,86,Women's Apparel,Oct,10:00:00,Monday,F
+6743,316,128,128,73,94.99,275,Women's Apparel,Oct,10:00:00,Tuesday,F
+19187,968,128,128,155,199.99,512,Women's Apparel,Dec,10:00:00,Tuesday,F
+1897,365,160,127,11,9.99,82,Women's Apparel,Nov,17:00:00,Tuesday,F
+5334,224,127,127,9,9.99,39,Footwear,Oct,10:00:00,Sunday,F
+26120,475,127,127,10,14.99,93,Women's Apparel,Oct,10:00:00,Saturday,D
+6266,956,127,127,44,54.99,211,Women's Apparel,Dec,10:00:00,Thursday,F
+20454,560,126,126,10,9.99,85,Women's Apparel,Oct,10:00:00,Tuesday,F
+17157,550,133,126,10,9.99,85,Women's Apparel,Nov,17:00:00,Monday,D
+1815,390,126,126,24,34.99,92,Women's Apparel,Nov,17:00:00,Thursday,F
+10591,115,126,126,28,39.99,121,Men's Apparel,Oct,10:00:00,Saturday,F
+9641,498,126,126,82,109.99,302,Women's Apparel,Oct,10:00:00,Thursday,F
+20157,186,126,126,82,114.99,283,Men's Apparel,Oct,10:00:00,Wednesday,F
+3999,305,134,125,10,9.99,88,Footwear,Oct,10:00:00,Saturday,F
+7744,430,125,125,10,14.99,63,Women's Apparel,Oct,10:00:00,Sunday,F
+199,289,125,125,6,19.99,49,Footwear,Oct,10:00:00,Wednesday,F
+12799,745,125,125,26,29.99,96,Women's Apparel,Oct,10:00:00,Tuesday,F
+397,900,125,125,44,54.99,127,Women's Apparel,Nov,10:00:00,Tuesday,D
+29083,75,125,125,42,54.99,142,Men's Apparel,Oct,10:00:00,Thursday,D
+27043,871,125,125,47,64.99,185,Women's Apparel,Nov,10:00:00,Tuesday,F
+21378,380,125,125,51,69.99,154,Women's Apparel,Oct,10:00:00,Monday,F
+5637,394,125,125,54,74.99,300,Women's Apparel,Dec,10:00:00,Sunday,F
+2495,791,125,125,76,94.99,209,Women's Apparel,Nov,17:00:00,Saturday,F
+11142,390,167,124,10,9.99,79,Women's Apparel,Nov,17:00:00,Thursday,F
+23742,215,124,124,25,34.99,80,Footwear,Oct,10:00:00,Wednesday,F
+10302,625,124,124,59,74.99,150,Women's Apparel,Oct,10:00:00,Tuesday,D
+4663,900,124,124,56,74.99,156,Women's Apparel,Nov,10:00:00,Tuesday,D
+2787,382,124,124,140,179.99,460,Women's Apparel,Dec,17:00:00,Wednesday,F
+2504,618,124,124,177,229.99,542,Women's Apparel,Dec,10:00:00,Friday,F
+20747,905,123,123,10,14.99,93,Women's Apparel,Nov,10:00:00,Tuesday,F
+20751,176,123,123,25,29.99,54,Men's Apparel,Dec,17:00:00,Sunday,F
+20083,40,123,123,36,44.99,114,Men's Apparel,Oct,10:00:00,Thursday,F
+16612,265,122,122,22,29.99,66,Footwear,Nov,17:00:00,Monday,F
+25611,80,122,122,31,34.99,107,Men's Apparel,Oct,10:00:00,Monday,F
+22045,850,122,122,34,44.99,123,Women's Apparel,Nov,10:00:00,Monday,D
+3034,550,122,122,62,79.99,155,Women's Apparel,Nov,17:00:00,Monday,D
+22664,161,122,122,76,104.99,237,Men's Apparel,Oct,10:00:00,Thursday,F
+7561,867,122,122,178,229.99,490,Women's Apparel,Dec,17:00:00,Friday,F
+8598,831,121,121,48,64.99,179,Women's Apparel,Dec,17:00:00,Friday,F
+23759,121,121,121,46,64.99,227,Men's Apparel,Oct,10:00:00,Tuesday,F
+15088,313,121,121,122,159.99,410,Footwear,Oct,10:00:00,Thursday,F
+19117,7,121,121,153,199.99,460,Men's Apparel,Nov,17:00:00,Tuesday,F
+24681,670,120,120,19,19.99,110,Women's Apparel,Oct,10:00:00,Thursday,F
+13205,75,120,120,31,44.99,123,Men's Apparel,Oct,10:00:00,Thursday,D
+19299,986,120,120,55,69.99,214,Women's Apparel,Nov,17:00:00,Thursday,F
+4325,846,120,120,77,99.99,232,Women's Apparel,Nov,17:00:00,Monday,F
+21108,161,120,120,88,114.99,283,Men's Apparel,Oct,10:00:00,Thursday,F
+1679,306,120,120,143,179.99,360,Footwear,Oct,10:00:00,Thursday,F
+21107,821,120,120,133,179.99,342,Women's Apparel,Dec,10:00:00,Monday,F
+7187,5,119,119,10,9.99,64,Men's Apparel,Nov,17:00:00,Tuesday,F
+2058,680,119,119,34,44.99,117,Women's Apparel,Oct,10:00:00,Sunday,F
+5647,326,119,119,63,74.99,249,Women's Apparel,Nov,17:00:00,Thursday,F
+759,761,119,119,95,124.99,269,Women's Apparel,Nov,17:00:00,Tuesday,F
+1450,257,119,119,152,194.99,465,Footwear,Nov,17:00:00,Wednesday,F
+16663,315,118,118,18,19.99,80,Women's Apparel,Oct,10:00:00,Saturday,F
+15288,460,118,118,37,44.99,135,Women's Apparel,Oct,10:00:00,Thursday,F
+19956,635,118,118,50,59.99,144,Women's Apparel,Oct,10:00:00,Tuesday,F
+2738,342,157,118,48,59.99,230,Women's Apparel,Dec,10:00:00,Monday,F
+1319,295,118,118,47,59.99,135,Footwear,Oct,10:00:00,Tuesday,F
+20637,355,118,118,51,64.99,155,Women's Apparel,Nov,17:00:00,Wednesday,F
+15325,895,118,118,49,64.99,122,Women's Apparel,Nov,10:00:00,Monday,F
+7980,201,118,118,103,134.99,303,Men's Apparel,Oct,10:00:00,Monday,F
+5618,816,118,118,104,139.99,296,Women's Apparel,Nov,10:00:00,Saturday,F
+24237,661,118,118,113,149.99,288,Women's Apparel,Nov,17:00:00,Monday,F
+5587,567,118,118,173,224.99,485,Women's Apparel,Nov,17:00:00,Tuesday,F
+8387,279,117,117,8,9.99,50,Footwear,Oct,10:00:00,Wednesday,F
+10197,555,117,117,10,14.99,63,Women's Apparel,Nov,17:00:00,Wednesday,F
+19025,910,117,117,45,59.99,117,Women's Apparel,Nov,17:00:00,Monday,F
+12597,511,117,117,52,64.99,167,Women's Apparel,Nov,17:00:00,Tuesday,F
+18285,557,117,117,92,114.99,335,Women's Apparel,Oct,10:00:00,Tuesday,F
+6045,81,117,117,97,129.99,232,Men's Apparel,Oct,10:00:00,Friday,F
+660,706,117,117,104,134.99,315,Women's Apparel,Oct,10:00:00,Tuesday,F
+13264,12,117,117,127,169.99,360,Men's Apparel,Nov,17:00:00,Wednesday,F
+19103,377,117,117,147,184.99,475,Women's Apparel,Dec,17:00:00,Wednesday,F
+789,723,117,117,149,194.99,447,Women's Apparel,Oct,10:00:00,Thursday,F
+10086,882,117,117,159,204.99,425,Women's Apparel,Nov,10:00:00,Friday,F
+3861,963,117,117,205,254.99,531,Women's Apparel,Dec,10:00:00,Saturday,F
+3950,970,116,116,10,9.99,91,Women's Apparel,Nov,10:00:00,Monday,F
+9819,5,139,116,10,9.99,70,Men's Apparel,Nov,17:00:00,Tuesday,F
+22256,365,130,116,10,14.99,90,Women's Apparel,Nov,17:00:00,Tuesday,F
+22769,470,116,116,23,34.99,80,Women's Apparel,Oct,10:00:00,Friday,F
+9529,645,116,116,60,84.99,163,Women's Apparel,Nov,17:00:00,Wednesday,F
+14859,326,116,116,109,139.99,296,Women's Apparel,Nov,17:00:00,Thursday,F
+513,342,116,116,112,149.99,280,Women's Apparel,Dec,10:00:00,Monday,F
+13099,846,116,116,129,159.99,340,Women's Apparel,Nov,17:00:00,Monday,F
+23551,432,116,116,129,164.99,345,Women's Apparel,Nov,17:00:00,Thursday,F
+12319,347,116,116,140,179.99,350,Women's Apparel,Dec,17:00:00,Thursday,F
+26184,597,116,116,145,199.99,430,Women's Apparel,Dec,17:00:00,Sunday,F
+21412,289,115,115,7,9.99,27,Footwear,Oct,10:00:00,Wednesday,F
+4196,289,115,115,5,9.99,27,Footwear,Oct,10:00:00,Wednesday,F
+14154,970,126,115,11,14.99,93,Women's Apparel,Nov,10:00:00,Monday,F
+24024,160,115,115,32,44.99,126,Men's Apparel,Nov,17:00:00,Wednesday,F
+7493,472,115,115,116,154.99,435,Women's Apparel,Oct,10:00:00,Sunday,F
+30074,643,115,115,211,269.99,582,Women's Apparel,Dec,10:00:00,Monday,F
+23480,590,118,114,10,9.99,91,Women's Apparel,Oct,10:00:00,Tuesday,F
+9920,249,114,114,9,9.99,34,Footwear,Oct,10:00:00,Thursday,F
+22273,239,124,114,8,9.99,82,Footwear,Oct,10:00:00,Friday,F
+24358,224,114,114,7,9.99,29,Footwear,Oct,10:00:00,Sunday,F
+13256,865,132,114,10,14.99,84,Women's Apparel,Nov,17:00:00,Tuesday,F
+10765,905,138,114,18,19.99,98,Women's Apparel,Nov,10:00:00,Tuesday,F
+3285,785,114,114,26,34.99,89,Women's Apparel,Nov,10:00:00,Monday,F
+2205,420,114,114,33,39.99,109,Women's Apparel,Oct,10:00:00,Monday,F
+1793,170,114,114,32,39.99,112,Men's Apparel,Oct,10:00:00,Thursday,F
+17272,185,114,114,51,69.99,157,Men's Apparel,Nov,17:00:00,Thursday,F
+18404,391,114,114,62,79.99,230,Women's Apparel,Oct,10:00:00,Sunday,F
+1715,486,114,114,77,104.99,261,Women's Apparel,Oct,10:00:00,Wednesday,F
+19797,223,114,114,213,279.99,560,Footwear,Dec,10:00:00,Monday,F
+12884,244,113,113,10,14.99,33,Footwear,Nov,17:00:00,Monday,F
+22453,185,113,113,33,44.99,99,Men's Apparel,Nov,17:00:00,Thursday,F
+27630,745,113,113,41,54.99,142,Women's Apparel,Oct,10:00:00,Tuesday,F
+18104,960,113,113,47,59.99,132,Women's Apparel,Nov,17:00:00,Monday,F
+20670,546,113,113,96,124.99,287,Women's Apparel,Oct,10:00:00,Friday,F
+22340,421,113,113,106,129.99,304,Women's Apparel,Oct,10:00:00,Friday,F
+16779,681,113,113,103,129.99,280,Women's Apparel,Oct,10:00:00,Thursday,F
+9030,196,113,113,139,174.99,313,Men's Apparel,Dec,10:00:00,Thursday,F
+2278,978,113,113,185,239.99,588,Women's Apparel,Dec,10:00:00,Thursday,F
+10445,259,124,112,5,9.99,38,Footwear,Oct,10:00:00,Tuesday,F
+20013,210,146,112,10,9.99,88,Footwear,Oct,10:00:00,Monday,F
+24057,264,112,112,5,9.99,70,Footwear,Nov,17:00:00,Monday,F
+29637,355,112,112,10,14.99,72,Women's Apparel,Nov,17:00:00,Wednesday,F
+25447,615,112,112,17,19.99,59,Women's Apparel,Oct,10:00:00,Friday,F
+13783,815,112,112,44,54.99,121,Women's Apparel,Nov,17:00:00,Wednesday,F
+11178,5,112,112,52,64.99,137,Men's Apparel,Nov,17:00:00,Tuesday,F
+10313,820,112,112,49,64.99,149,Women's Apparel,Nov,10:00:00,Saturday,F
+19237,210,112,112,64,79.99,128,Footwear,Oct,10:00:00,Monday,F
+30070,907,112,112,62,84.99,195,Women's Apparel,Nov,10:00:00,Wednesday,F
+23168,221,112,112,74,99.99,178,Footwear,Oct,10:00:00,Thursday,F
+27555,911,112,112,80,104.99,195,Women's Apparel,Dec,17:00:00,Monday,F
+9425,357,112,112,98,124.99,395,Women's Apparel,Oct,10:00:00,Tuesday,F
+26461,712,112,112,135,169.99,440,Women's Apparel,Dec,17:00:00,Sunday,F
+19134,923,112,112,181,239.99,432,Women's Apparel,Dec,10:00:00,Saturday,F
+21130,583,112,112,284,369.99,670,Women's Apparel,Dec,10:00:00,Saturday,F
+28246,473,112,112,306,389.99,642,Women's Apparel,Dec,17:00:00,Wednesday,F
+10048,244,118,111,5,9.99,31,Footwear,Nov,17:00:00,Monday,F
+7057,805,126,111,10,9.99,88,Women's Apparel,Nov,10:00:00,Sunday,F
+17282,820,111,111,18,19.99,83,Women's Apparel,Nov,10:00:00,Saturday,F
+17318,410,111,111,30,39.99,130,Women's Apparel,Nov,17:00:00,Wednesday,F
+24262,400,111,111,39,49.99,128,Women's Apparel,Oct,10:00:00,Thursday,D
+14618,625,111,111,46,59.99,102,Women's Apparel,Oct,10:00:00,Tuesday,D
+16791,860,111,111,51,64.99,131,Women's Apparel,Nov,10:00:00,Friday,F
+18957,500,111,111,53,69.99,136,Women's Apparel,Oct,10:00:00,Tuesday,D
+1283,831,111,111,62,79.99,200,Women's Apparel,Dec,17:00:00,Friday,F
+30364,907,111,111,65,84.99,375,Women's Apparel,Nov,10:00:00,Wednesday,F
+2757,900,111,111,64,84.99,166,Women's Apparel,Nov,10:00:00,Tuesday,D
+15550,646,111,111,72,94.99,197,Women's Apparel,Oct,10:00:00,Saturday,F
+24398,161,111,111,89,119.99,300,Men's Apparel,Oct,10:00:00,Thursday,F
+15033,809,111,111,105,129.99,550,Women's Apparel,Dec,17:00:00,Sunday,F
+19118,23,111,111,165,214.99,539,Men's Apparel,Dec,10:00:00,Tuesday,F
+25984,347,111,111,170,219.99,500,Women's Apparel,Dec,17:00:00,Thursday,F
+21524,824,111,111,362,474.99,835,Women's Apparel,Dec,10:00:00,Friday,F
+7700,239,127,110,6,9.99,33,Footwear,Oct,10:00:00,Friday,F
+2827,249,114,110,5,9.99,49,Footwear,Oct,10:00:00,Thursday,F
+27747,284,110,110,9,14.99,49,Footwear,Oct,10:00:00,Monday,F
+11184,925,110,110,19,29.99,102,Women's Apparel,Nov,10:00:00,Monday,D
+195,545,110,110,26,34.99,80,Women's Apparel,Nov,17:00:00,Tuesday,F
+19451,860,110,110,35,44.99,132,Women's Apparel,Nov,10:00:00,Friday,F
+13911,270,110,110,49,59.99,129,Footwear,Oct,10:00:00,Friday,F
+12078,635,110,110,56,74.99,126,Women's Apparel,Oct,10:00:00,Tuesday,F
+9551,381,110,110,66,84.99,259,Women's Apparel,Oct,10:00:00,Thursday,F
+5642,675,110,110,61,84.99,172,Women's Apparel,Nov,17:00:00,Wednesday,D
+18767,911,110,110,87,114.99,175,Women's Apparel,Dec,17:00:00,Monday,F
+5230,466,110,110,95,119.99,228,Women's Apparel,Oct,10:00:00,Wednesday,F
+2148,651,110,110,93,124.99,209,Women's Apparel,Dec,10:00:00,Friday,F
+1036,573,110,110,203,264.99,469,Women's Apparel,Dec,17:00:00,Friday,F
+5605,820,113,109,10,9.99,94,Women's Apparel,Nov,10:00:00,Saturday,F
+29223,269,129,109,5,9.99,45,Footwear,Nov,17:00:00,Thursday,F
+3147,315,109,109,16,19.99,98,Women's Apparel,Oct,10:00:00,Saturday,F
