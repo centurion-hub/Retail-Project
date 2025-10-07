@@ -1,201 +1,1001 @@
 Style#,Event#,Starting Inventory,Quantity Sold,Cost,Price,MSRP,Department,Month,Event Start Time,Event Start DOW,Shipping Method
-30247,325,161,161,12,14.99,102,Women's Apparel,Oct,10:00:00,Tuesday,D
-15971,425,158,158,10,14.99,66,Women's Apparel,Nov,17:00:00,Wednesday,D
-9664,254,152,152,8,9.99,58,Footwear,Oct,10:00:00,Saturday,F
-25822,309,151,151,7,9.99,49,Footwear,Oct,10:00:00,Friday,F
-16829,289,147,147,5,9.99,46,Footwear,Oct,10:00:00,Wednesday,F
-19116,294,146,146,5,9.99,33,Footwear,Oct,10:00:00,Monday,F
-20386,940,144,144,10,9.99,70,Women's Apparel,Nov,10:00:00,Thursday,F
-13457,839,143,143,88,109.99,515,Women's Apparel,Dec,10:00:00,Sunday,F
-22111,260,141,141,10,9.99,85,Footwear,Oct,10:00:00,Wednesday,F
-20243,320,141,141,20,24.99,85,Women's Apparel,Nov,17:00:00,Tuesday,F
-29482,166,138,138,67,84.99,253,Men's Apparel,Nov,17:00:00,Wednesday,F
-22252,270,137,137,21,24.99,64,Footwear,Oct,10:00:00,Friday,F
-22338,945,147,136,10,9.99,85,Women's Apparel,Nov,10:00:00,Wednesday,F
-25271,360,136,136,12,14.99,90,Women's Apparel,Oct,10:00:00,Tuesday,F
-20042,395,136,136,15,19.99,107,Women's Apparel,Oct,10:00:00,Thursday,F
-20441,720,134,134,14,19.99,77,Women's Apparel,Oct,10:00:00,Saturday,F
-8211,284,133,133,7,9.99,41,Footwear,Oct,10:00:00,Monday,F
-29514,823,133,133,105,134.99,411,Women's Apparel,Dec,10:00:00,Monday,F
-3411,309,132,132,10,14.99,75,Footwear,Oct,10:00:00,Friday,F
-17161,405,132,132,27,29.99,72,Women's Apparel,Nov,17:00:00,Tuesday,F
-24989,224,131,131,7,9.99,34,Footwear,Oct,10:00:00,Sunday,F
-20338,101,131,131,44,54.99,145,Men's Apparel,Dec,10:00:00,Thursday,F
-13622,877,131,131,93,114.99,345,Women's Apparel,Nov,17:00:00,Tuesday,F
-7760,800,130,130,18,19.99,89,Women's Apparel,Nov,17:00:00,Saturday,D
-23085,830,130,130,20,29.99,87,Women's Apparel,Nov,17:00:00,Wednesday,F
-23206,420,130,130,34,39.99,127,Women's Apparel,Oct,10:00:00,Monday,F
-8020,516,130,130,52,64.99,221,Women's Apparel,Oct,10:00:00,Saturday,F
-28379,361,130,130,52,69.99,172,Women's Apparel,Nov,17:00:00,Tuesday,F
-25176,145,129,129,10,9.99,61,Men's Apparel,Oct,10:00:00,Tuesday,F
-23296,230,129,129,31,39.99,130,Footwear,Oct,10:00:00,Monday,F
-20641,806,129,129,101,134.99,279,Women's Apparel,Dec,10:00:00,Wednesday,F
-20930,234,128,128,8,9.99,26,Footwear,Nov,17:00:00,Tuesday,F
-15409,274,128,128,5,9.99,46,Footwear,Nov,17:00:00,Thursday,F
-6271,380,128,128,17,19.99,86,Women's Apparel,Oct,10:00:00,Monday,F
-6743,316,128,128,73,94.99,275,Women's Apparel,Oct,10:00:00,Tuesday,F
-19187,968,128,128,155,199.99,512,Women's Apparel,Dec,10:00:00,Tuesday,F
-1897,365,160,127,11,9.99,82,Women's Apparel,Nov,17:00:00,Tuesday,F
-5334,224,127,127,9,9.99,39,Footwear,Oct,10:00:00,Sunday,F
-26120,475,127,127,10,14.99,93,Women's Apparel,Oct,10:00:00,Saturday,D
-6266,956,127,127,44,54.99,211,Women's Apparel,Dec,10:00:00,Thursday,F
-20454,560,126,126,10,9.99,85,Women's Apparel,Oct,10:00:00,Tuesday,F
-17157,550,133,126,10,9.99,85,Women's Apparel,Nov,17:00:00,Monday,D
-1815,390,126,126,24,34.99,92,Women's Apparel,Nov,17:00:00,Thursday,F
-10591,115,126,126,28,39.99,121,Men's Apparel,Oct,10:00:00,Saturday,F
-9641,498,126,126,82,109.99,302,Women's Apparel,Oct,10:00:00,Thursday,F
-20157,186,126,126,82,114.99,283,Men's Apparel,Oct,10:00:00,Wednesday,F
-3999,305,134,125,10,9.99,88,Footwear,Oct,10:00:00,Saturday,F
-7744,430,125,125,10,14.99,63,Women's Apparel,Oct,10:00:00,Sunday,F
-199,289,125,125,6,19.99,49,Footwear,Oct,10:00:00,Wednesday,F
-12799,745,125,125,26,29.99,96,Women's Apparel,Oct,10:00:00,Tuesday,F
-397,900,125,125,44,54.99,127,Women's Apparel,Nov,10:00:00,Tuesday,D
-29083,75,125,125,42,54.99,142,Men's Apparel,Oct,10:00:00,Thursday,D
-27043,871,125,125,47,64.99,185,Women's Apparel,Nov,10:00:00,Tuesday,F
-21378,380,125,125,51,69.99,154,Women's Apparel,Oct,10:00:00,Monday,F
-5637,394,125,125,54,74.99,300,Women's Apparel,Dec,10:00:00,Sunday,F
-2495,791,125,125,76,94.99,209,Women's Apparel,Nov,17:00:00,Saturday,F
-11142,390,167,124,10,9.99,79,Women's Apparel,Nov,17:00:00,Thursday,F
-23742,215,124,124,25,34.99,80,Footwear,Oct,10:00:00,Wednesday,F
-10302,625,124,124,59,74.99,150,Women's Apparel,Oct,10:00:00,Tuesday,D
-4663,900,124,124,56,74.99,156,Women's Apparel,Nov,10:00:00,Tuesday,D
-2787,382,124,124,140,179.99,460,Women's Apparel,Dec,17:00:00,Wednesday,F
-2504,618,124,124,177,229.99,542,Women's Apparel,Dec,10:00:00,Friday,F
-20747,905,123,123,10,14.99,93,Women's Apparel,Nov,10:00:00,Tuesday,F
-20751,176,123,123,25,29.99,54,Men's Apparel,Dec,17:00:00,Sunday,F
-20083,40,123,123,36,44.99,114,Men's Apparel,Oct,10:00:00,Thursday,F
-16612,265,122,122,22,29.99,66,Footwear,Nov,17:00:00,Monday,F
-25611,80,122,122,31,34.99,107,Men's Apparel,Oct,10:00:00,Monday,F
-22045,850,122,122,34,44.99,123,Women's Apparel,Nov,10:00:00,Monday,D
-3034,550,122,122,62,79.99,155,Women's Apparel,Nov,17:00:00,Monday,D
-22664,161,122,122,76,104.99,237,Men's Apparel,Oct,10:00:00,Thursday,F
-7561,867,122,122,178,229.99,490,Women's Apparel,Dec,17:00:00,Friday,F
-8598,831,121,121,48,64.99,179,Women's Apparel,Dec,17:00:00,Friday,F
-23759,121,121,121,46,64.99,227,Men's Apparel,Oct,10:00:00,Tuesday,F
-15088,313,121,121,122,159.99,410,Footwear,Oct,10:00:00,Thursday,F
-19117,7,121,121,153,199.99,460,Men's Apparel,Nov,17:00:00,Tuesday,F
-24681,670,120,120,19,19.99,110,Women's Apparel,Oct,10:00:00,Thursday,F
-13205,75,120,120,31,44.99,123,Men's Apparel,Oct,10:00:00,Thursday,D
-19299,986,120,120,55,69.99,214,Women's Apparel,Nov,17:00:00,Thursday,F
-4325,846,120,120,77,99.99,232,Women's Apparel,Nov,17:00:00,Monday,F
-21108,161,120,120,88,114.99,283,Men's Apparel,Oct,10:00:00,Thursday,F
-1679,306,120,120,143,179.99,360,Footwear,Oct,10:00:00,Thursday,F
-21107,821,120,120,133,179.99,342,Women's Apparel,Dec,10:00:00,Monday,F
-7187,5,119,119,10,9.99,64,Men's Apparel,Nov,17:00:00,Tuesday,F
-2058,680,119,119,34,44.99,117,Women's Apparel,Oct,10:00:00,Sunday,F
-5647,326,119,119,63,74.99,249,Women's Apparel,Nov,17:00:00,Thursday,F
-759,761,119,119,95,124.99,269,Women's Apparel,Nov,17:00:00,Tuesday,F
-1450,257,119,119,152,194.99,465,Footwear,Nov,17:00:00,Wednesday,F
-16663,315,118,118,18,19.99,80,Women's Apparel,Oct,10:00:00,Saturday,F
-15288,460,118,118,37,44.99,135,Women's Apparel,Oct,10:00:00,Thursday,F
-19956,635,118,118,50,59.99,144,Women's Apparel,Oct,10:00:00,Tuesday,F
-2738,342,157,118,48,59.99,230,Women's Apparel,Dec,10:00:00,Monday,F
-1319,295,118,118,47,59.99,135,Footwear,Oct,10:00:00,Tuesday,F
-20637,355,118,118,51,64.99,155,Women's Apparel,Nov,17:00:00,Wednesday,F
-15325,895,118,118,49,64.99,122,Women's Apparel,Nov,10:00:00,Monday,F
-7980,201,118,118,103,134.99,303,Men's Apparel,Oct,10:00:00,Monday,F
-5618,816,118,118,104,139.99,296,Women's Apparel,Nov,10:00:00,Saturday,F
-24237,661,118,118,113,149.99,288,Women's Apparel,Nov,17:00:00,Monday,F
-5587,567,118,118,173,224.99,485,Women's Apparel,Nov,17:00:00,Tuesday,F
-8387,279,117,117,8,9.99,50,Footwear,Oct,10:00:00,Wednesday,F
-10197,555,117,117,10,14.99,63,Women's Apparel,Nov,17:00:00,Wednesday,F
-19025,910,117,117,45,59.99,117,Women's Apparel,Nov,17:00:00,Monday,F
-12597,511,117,117,52,64.99,167,Women's Apparel,Nov,17:00:00,Tuesday,F
-18285,557,117,117,92,114.99,335,Women's Apparel,Oct,10:00:00,Tuesday,F
-6045,81,117,117,97,129.99,232,Men's Apparel,Oct,10:00:00,Friday,F
-660,706,117,117,104,134.99,315,Women's Apparel,Oct,10:00:00,Tuesday,F
-13264,12,117,117,127,169.99,360,Men's Apparel,Nov,17:00:00,Wednesday,F
-19103,377,117,117,147,184.99,475,Women's Apparel,Dec,17:00:00,Wednesday,F
-789,723,117,117,149,194.99,447,Women's Apparel,Oct,10:00:00,Thursday,F
-10086,882,117,117,159,204.99,425,Women's Apparel,Nov,10:00:00,Friday,F
-3861,963,117,117,205,254.99,531,Women's Apparel,Dec,10:00:00,Saturday,F
-3950,970,116,116,10,9.99,91,Women's Apparel,Nov,10:00:00,Monday,F
-9819,5,139,116,10,9.99,70,Men's Apparel,Nov,17:00:00,Tuesday,F
-22256,365,130,116,10,14.99,90,Women's Apparel,Nov,17:00:00,Tuesday,F
-22769,470,116,116,23,34.99,80,Women's Apparel,Oct,10:00:00,Friday,F
-9529,645,116,116,60,84.99,163,Women's Apparel,Nov,17:00:00,Wednesday,F
-14859,326,116,116,109,139.99,296,Women's Apparel,Nov,17:00:00,Thursday,F
-513,342,116,116,112,149.99,280,Women's Apparel,Dec,10:00:00,Monday,F
-13099,846,116,116,129,159.99,340,Women's Apparel,Nov,17:00:00,Monday,F
-23551,432,116,116,129,164.99,345,Women's Apparel,Nov,17:00:00,Thursday,F
-12319,347,116,116,140,179.99,350,Women's Apparel,Dec,17:00:00,Thursday,F
-26184,597,116,116,145,199.99,430,Women's Apparel,Dec,17:00:00,Sunday,F
-21412,289,115,115,7,9.99,27,Footwear,Oct,10:00:00,Wednesday,F
-4196,289,115,115,5,9.99,27,Footwear,Oct,10:00:00,Wednesday,F
-14154,970,126,115,11,14.99,93,Women's Apparel,Nov,10:00:00,Monday,F
-24024,160,115,115,32,44.99,126,Men's Apparel,Nov,17:00:00,Wednesday,F
-7493,472,115,115,116,154.99,435,Women's Apparel,Oct,10:00:00,Sunday,F
-30074,643,115,115,211,269.99,582,Women's Apparel,Dec,10:00:00,Monday,F
-23480,590,118,114,10,9.99,91,Women's Apparel,Oct,10:00:00,Tuesday,F
-9920,249,114,114,9,9.99,34,Footwear,Oct,10:00:00,Thursday,F
-22273,239,124,114,8,9.99,82,Footwear,Oct,10:00:00,Friday,F
-24358,224,114,114,7,9.99,29,Footwear,Oct,10:00:00,Sunday,F
-13256,865,132,114,10,14.99,84,Women's Apparel,Nov,17:00:00,Tuesday,F
-10765,905,138,114,18,19.99,98,Women's Apparel,Nov,10:00:00,Tuesday,F
-3285,785,114,114,26,34.99,89,Women's Apparel,Nov,10:00:00,Monday,F
-2205,420,114,114,33,39.99,109,Women's Apparel,Oct,10:00:00,Monday,F
-1793,170,114,114,32,39.99,112,Men's Apparel,Oct,10:00:00,Thursday,F
-17272,185,114,114,51,69.99,157,Men's Apparel,Nov,17:00:00,Thursday,F
-18404,391,114,114,62,79.99,230,Women's Apparel,Oct,10:00:00,Sunday,F
-1715,486,114,114,77,104.99,261,Women's Apparel,Oct,10:00:00,Wednesday,F
-19797,223,114,114,213,279.99,560,Footwear,Dec,10:00:00,Monday,F
-12884,244,113,113,10,14.99,33,Footwear,Nov,17:00:00,Monday,F
-22453,185,113,113,33,44.99,99,Men's Apparel,Nov,17:00:00,Thursday,F
-27630,745,113,113,41,54.99,142,Women's Apparel,Oct,10:00:00,Tuesday,F
-18104,960,113,113,47,59.99,132,Women's Apparel,Nov,17:00:00,Monday,F
-20670,546,113,113,96,124.99,287,Women's Apparel,Oct,10:00:00,Friday,F
-22340,421,113,113,106,129.99,304,Women's Apparel,Oct,10:00:00,Friday,F
-16779,681,113,113,103,129.99,280,Women's Apparel,Oct,10:00:00,Thursday,F
-9030,196,113,113,139,174.99,313,Men's Apparel,Dec,10:00:00,Thursday,F
-2278,978,113,113,185,239.99,588,Women's Apparel,Dec,10:00:00,Thursday,F
-10445,259,124,112,5,9.99,38,Footwear,Oct,10:00:00,Tuesday,F
-20013,210,146,112,10,9.99,88,Footwear,Oct,10:00:00,Monday,F
-24057,264,112,112,5,9.99,70,Footwear,Nov,17:00:00,Monday,F
-29637,355,112,112,10,14.99,72,Women's Apparel,Nov,17:00:00,Wednesday,F
-25447,615,112,112,17,19.99,59,Women's Apparel,Oct,10:00:00,Friday,F
-13783,815,112,112,44,54.99,121,Women's Apparel,Nov,17:00:00,Wednesday,F
-11178,5,112,112,52,64.99,137,Men's Apparel,Nov,17:00:00,Tuesday,F
-10313,820,112,112,49,64.99,149,Women's Apparel,Nov,10:00:00,Saturday,F
-19237,210,112,112,64,79.99,128,Footwear,Oct,10:00:00,Monday,F
-30070,907,112,112,62,84.99,195,Women's Apparel,Nov,10:00:00,Wednesday,F
-23168,221,112,112,74,99.99,178,Footwear,Oct,10:00:00,Thursday,F
-27555,911,112,112,80,104.99,195,Women's Apparel,Dec,17:00:00,Monday,F
-9425,357,112,112,98,124.99,395,Women's Apparel,Oct,10:00:00,Tuesday,F
-26461,712,112,112,135,169.99,440,Women's Apparel,Dec,17:00:00,Sunday,F
-19134,923,112,112,181,239.99,432,Women's Apparel,Dec,10:00:00,Saturday,F
-21130,583,112,112,284,369.99,670,Women's Apparel,Dec,10:00:00,Saturday,F
-28246,473,112,112,306,389.99,642,Women's Apparel,Dec,17:00:00,Wednesday,F
-10048,244,118,111,5,9.99,31,Footwear,Nov,17:00:00,Monday,F
-7057,805,126,111,10,9.99,88,Women's Apparel,Nov,10:00:00,Sunday,F
-17282,820,111,111,18,19.99,83,Women's Apparel,Nov,10:00:00,Saturday,F
-17318,410,111,111,30,39.99,130,Women's Apparel,Nov,17:00:00,Wednesday,F
-24262,400,111,111,39,49.99,128,Women's Apparel,Oct,10:00:00,Thursday,D
-14618,625,111,111,46,59.99,102,Women's Apparel,Oct,10:00:00,Tuesday,D
-16791,860,111,111,51,64.99,131,Women's Apparel,Nov,10:00:00,Friday,F
-18957,500,111,111,53,69.99,136,Women's Apparel,Oct,10:00:00,Tuesday,D
-1283,831,111,111,62,79.99,200,Women's Apparel,Dec,17:00:00,Friday,F
-30364,907,111,111,65,84.99,375,Women's Apparel,Nov,10:00:00,Wednesday,F
-2757,900,111,111,64,84.99,166,Women's Apparel,Nov,10:00:00,Tuesday,D
-15550,646,111,111,72,94.99,197,Women's Apparel,Oct,10:00:00,Saturday,F
-24398,161,111,111,89,119.99,300,Men's Apparel,Oct,10:00:00,Thursday,F
-15033,809,111,111,105,129.99,550,Women's Apparel,Dec,17:00:00,Sunday,F
-19118,23,111,111,165,214.99,539,Men's Apparel,Dec,10:00:00,Tuesday,F
-25984,347,111,111,170,219.99,500,Women's Apparel,Dec,17:00:00,Thursday,F
-21524,824,111,111,362,474.99,835,Women's Apparel,Dec,10:00:00,Friday,F
-7700,239,127,110,6,9.99,33,Footwear,Oct,10:00:00,Friday,F
-2827,249,114,110,5,9.99,49,Footwear,Oct,10:00:00,Thursday,F
-27747,284,110,110,9,14.99,49,Footwear,Oct,10:00:00,Monday,F
-11184,925,110,110,19,29.99,102,Women's Apparel,Nov,10:00:00,Monday,D
-195,545,110,110,26,34.99,80,Women's Apparel,Nov,17:00:00,Tuesday,F
-19451,860,110,110,35,44.99,132,Women's Apparel,Nov,10:00:00,Friday,F
-13911,270,110,110,49,59.99,129,Footwear,Oct,10:00:00,Friday,F
-12078,635,110,110,56,74.99,126,Women's Apparel,Oct,10:00:00,Tuesday,F
-9551,381,110,110,66,84.99,259,Women's Apparel,Oct,10:00:00,Thursday,F
-5642,675,110,110,61,84.99,172,Women's Apparel,Nov,17:00:00,Wednesday,D
-18767,911,110,110,87,114.99,175,Women's Apparel,Dec,17:00:00,Monday,F
-5230,466,110,110,95,119.99,228,Women's Apparel,Oct,10:00:00,Wednesday,F
-2148,651,110,110,93,124.99,209,Women's Apparel,Dec,10:00:00,Friday,F
-1036,573,110,110,203,264.99,469,Women's Apparel,Dec,17:00:00,Friday,F
-5605,820,113,109,10,9.99,94,Women's Apparel,Nov,10:00:00,Saturday,F
-29223,269,129,109,5,9.99,45,Footwear,Nov,17:00:00,Thursday,F
-3147,315,109,109,16,19.99,98,Women's Apparel,Oct,10:00:00,Saturday,F
+30247,325, 161 , 161 , $12 , $14.99 , $102 ,Women's Apparel,Oct,10:00,Tuesday,D
+15971,425, 158 , 158 , $10 , $14.99 , $66 ,Women's Apparel,Nov,17:00,Wednesday,D
+9664,254, 152 , 152 , $8 , $9.99 , $58 ,Footwear,Oct,10:00,Saturday,F
+25822,309, 151 , 151 , $7 , $9.99 , $49 ,Footwear,Oct,10:00,Friday,F
+16829,289, 147 , 147 , $5 , $9.99 , $46 ,Footwear,Oct,10:00,Wednesday,F
+19116,294, 146 , 146 , $5 , $9.99 , $33 ,Footwear,Oct,10:00,Monday,F
+20386,940, 144 , 144 , $10 , $9.99 , $70 ,Women's Apparel,Nov,10:00,Thursday,F
+13457,839, 143 , 143 , $88 , $109.99 , $515 ,Women's Apparel,Dec,10:00,Sunday,F
+22111,260, 141 , 141 , $10 , $9.99 , $85 ,Footwear,Oct,10:00,Wednesday,F
+20243,320, 141 , 141 , $20 , $24.99 , $85 ,Women's Apparel,Nov,17:00,Tuesday,F
+29482,166, 138 , 138 , $67 , $84.99 , $253 ,Men's Apparel,Nov,17:00,Wednesday,F
+22252,270, 137 , 137 , $21 , $24.99 , $64 ,Footwear,Oct,10:00,Friday,F
+22338,945, 147 , 136 , $10 , $9.99 , $85 ,Women's Apparel,Nov,10:00,Wednesday,F
+25271,360, 136 , 136 , $12 , $14.99 , $90 ,Women's Apparel,Oct,10:00,Tuesday,F
+20042,395, 136 , 136 , $15 , $19.99 , $107 ,Women's Apparel,Oct,10:00,Thursday,F
+20441,720, 134 , 134 , $14 , $19.99 , $77 ,Women's Apparel,Oct,10:00,Saturday,F
+8211,284, 133 , 133 , $7 , $9.99 , $41 ,Footwear,Oct,10:00,Monday,F
+29514,823, 133 , 133 , $105 , $134.99 , $411 ,Women's Apparel,Dec,10:00,Monday,F
+3411,309, 132 , 132 , $10 , $14.99 , $75 ,Footwear,Oct,10:00,Friday,F
+17161,405, 132 , 132 , $27 , $29.99 , $72 ,Women's Apparel,Nov,17:00,Tuesday,F
+24989,224, 131 , 131 , $7 , $9.99 , $34 ,Footwear,Oct,10:00,Sunday,F
+20338,101, 131 , 131 , $44 , $54.99 , $145 ,Men's Apparel,Dec,10:00,Thursday,F
+13622,877, 131 , 131 , $93 , $114.99 , $345 ,Women's Apparel,Nov,17:00,Tuesday,F
+7760,800, 130 , 130 , $18 , $19.99 , $89 ,Women's Apparel,Nov,17:00,Saturday,D
+23085,830, 130 , 130 , $20 , $29.99 , $87 ,Women's Apparel,Nov,17:00,Wednesday,F
+23206,420, 130 , 130 , $34 , $39.99 , $127 ,Women's Apparel,Oct,10:00,Monday,F
+8020,516, 130 , 130 , $52 , $64.99 , $221 ,Women's Apparel,Oct,10:00,Saturday,F
+28379,361, 130 , 130 , $52 , $69.99 , $172 ,Women's Apparel,Nov,17:00,Tuesday,F
+25176,145, 129 , 129 , $10 , $9.99 , $61 ,Men's Apparel,Oct,10:00,Tuesday,F
+23296,230, 129 , 129 , $31 , $39.99 , $130 ,Footwear,Oct,10:00,Monday,F
+20641,806, 129 , 129 , $101 , $134.99 , $279 ,Women's Apparel,Dec,10:00,Wednesday,F
+20930,234, 128 , 128 , $8 , $9.99 , $26 ,Footwear,Nov,17:00,Tuesday,F
+15409,274, 128 , 128 , $5 , $9.99 , $46 ,Footwear,Nov,17:00,Thursday,F
+6271,380, 128 , 128 , $17 , $19.99 , $86 ,Women's Apparel,Oct,10:00,Monday,F
+6743,316, 128 , 128 , $73 , $94.99 , $275 ,Women's Apparel,Oct,10:00,Tuesday,F
+19187,968, 128 , 128 , $155 , $199.99 , $512 ,Women's Apparel,Dec,10:00,Tuesday,F
+1897,365, 160 , 127 , $11 , $9.99 , $82 ,Women's Apparel,Nov,17:00,Tuesday,F
+5334,224, 127 , 127 , $9 , $9.99 , $39 ,Footwear,Oct,10:00,Sunday,F
+26120,475, 127 , 127 , $10 , $14.99 , $93 ,Women's Apparel,Oct,10:00,Saturday,D
+6266,956, 127 , 127 , $44 , $54.99 , $211 ,Women's Apparel,Dec,10:00,Thursday,F
+20454,560, 126 , 126 , $10 , $9.99 , $85 ,Women's Apparel,Oct,10:00,Tuesday,F
+17157,550, 133 , 126 , $10 , $9.99 , $85 ,Women's Apparel,Nov,17:00,Monday,D
+1815,390, 126 , 126 , $24 , $34.99 , $92 ,Women's Apparel,Nov,17:00,Thursday,F
+10591,115, 126 , 126 , $28 , $39.99 , $121 ,Men's Apparel,Oct,10:00,Saturday,F
+9641,498, 126 , 126 , $82 , $109.99 , $302 ,Women's Apparel,Oct,10:00,Thursday,F
+20157,186, 126 , 126 , $82 , $114.99 , $283 ,Men's Apparel,Oct,10:00,Wednesday,F
+3999,305, 134 , 125 , $10 , $9.99 , $88 ,Footwear,Oct,10:00,Saturday,F
+7744,430, 125 , 125 , $10 , $14.99 , $63 ,Women's Apparel,Oct,10:00,Sunday,F
+199,289, 125 , 125 , $6 , $19.99 , $49 ,Footwear,Oct,10:00,Wednesday,F
+12799,745, 125 , 125 , $26 , $29.99 , $96 ,Women's Apparel,Oct,10:00,Tuesday,F
+397,900, 125 , 125 , $44 , $54.99 , $127 ,Women's Apparel,Nov,10:00,Tuesday,D
+29083,75, 125 , 125 , $42 , $54.99 , $142 ,Men's Apparel,Oct,10:00,Thursday,D
+27043,871, 125 , 125 , $47 , $64.99 , $185 ,Women's Apparel,Nov,10:00,Tuesday,F
+21378,380, 125 , 125 , $51 , $69.99 , $154 ,Women's Apparel,Oct,10:00,Monday,F
+5637,394, 125 , 125 , $54 , $74.99 , $300 ,Women's Apparel,Dec,10:00,Sunday,F
+2495,791, 125 , 125 , $76 , $94.99 , $209 ,Women's Apparel,Nov,17:00,Saturday,F
+11142,390, 167 , 124 , $10 , $9.99 , $79 ,Women's Apparel,Nov,17:00,Thursday,F
+23742,215, 124 , 124 , $25 , $34.99 , $80 ,Footwear,Oct,10:00,Wednesday,F
+10302,625, 124 , 124 , $59 , $74.99 , $150 ,Women's Apparel,Oct,10:00,Tuesday,D
+4663,900, 124 , 124 , $56 , $74.99 , $156 ,Women's Apparel,Nov,10:00,Tuesday,D
+2787,382, 124 , 124 , $140 , $179.99 , $460 ,Women's Apparel,Dec,17:00,Wednesday,F
+2504,618, 124 , 124 , $177 , $229.99 , $542 ,Women's Apparel,Dec,10:00,Friday,F
+20747,905, 123 , 123 , $10 , $14.99 , $93 ,Women's Apparel,Nov,10:00,Tuesday,F
+20751,176, 123 , 123 , $25 , $29.99 , $54 ,Men's Apparel,Dec,17:00,Sunday,F
+20083,40, 123 , 123 , $36 , $44.99 , $114 ,Men's Apparel,Oct,10:00,Thursday,F
+16612,265, 122 , 122 , $22 , $29.99 , $66 ,Footwear,Nov,17:00,Monday,F
+25611,80, 122 , 122 , $31 , $34.99 , $107 ,Men's Apparel,Oct,10:00,Monday,F
+22045,850, 122 , 122 , $34 , $44.99 , $123 ,Women's Apparel,Nov,10:00,Monday,D
+3034,550, 122 , 122 , $62 , $79.99 , $155 ,Women's Apparel,Nov,17:00,Monday,D
+22664,161, 122 , 122 , $76 , $104.99 , $237 ,Men's Apparel,Oct,10:00,Thursday,F
+7561,867, 122 , 122 , $178 , $229.99 , $490 ,Women's Apparel,Dec,17:00,Friday,F
+8598,831, 121 , 121 , $48 , $64.99 , $179 ,Women's Apparel,Dec,17:00,Friday,F
+23759,121, 121 , 121 , $46 , $64.99 , $227 ,Men's Apparel,Oct,10:00,Tuesday,F
+15088,313, 121 , 121 , $122 , $159.99 , $410 ,Footwear,Oct,10:00,Thursday,F
+19117,7, 121 , 121 , $153 , $199.99 , $460 ,Men's Apparel,Nov,17:00,Tuesday,F
+24681,670, 120 , 120 , $19 , $19.99 , $110 ,Women's Apparel,Oct,10:00,Thursday,F
+13205,75, 120 , 120 , $31 , $44.99 , $123 ,Men's Apparel,Oct,10:00,Thursday,D
+19299,986, 120 , 120 , $55 , $69.99 , $214 ,Women's Apparel,Nov,17:00,Thursday,F
+4325,846, 120 , 120 , $77 , $99.99 , $232 ,Women's Apparel,Nov,17:00,Monday,F
+21108,161, 120 , 120 , $88 , $114.99 , $283 ,Men's Apparel,Oct,10:00,Thursday,F
+1679,306, 120 , 120 , $143 , $179.99 , $360 ,Footwear,Oct,10:00,Thursday,F
+21107,821, 120 , 120 , $133 , $179.99 , $342 ,Women's Apparel,Dec,10:00,Monday,F
+7187,5, 119 , 119 , $10 , $9.99 , $64 ,Men's Apparel,Nov,17:00,Tuesday,F
+2058,680, 119 , 119 , $34 , $44.99 , $117 ,Women's Apparel,Oct,10:00,Sunday,F
+5647,326, 119 , 119 , $63 , $74.99 , $249 ,Women's Apparel,Nov,17:00,Thursday,F
+759,761, 119 , 119 , $95 , $124.99 , $269 ,Women's Apparel,Nov,17:00,Tuesday,F
+1450,257, 119 , 119 , $152 , $194.99 , $465 ,Footwear,Nov,17:00,Wednesday,F
+16663,315, 118 , 118 , $18 , $19.99 , $80 ,Women's Apparel,Oct,10:00,Saturday,F
+15288,460, 118 , 118 , $37 , $44.99 , $135 ,Women's Apparel,Oct,10:00,Thursday,F
+19956,635, 118 , 118 , $50 , $59.99 , $144 ,Women's Apparel,Oct,10:00,Tuesday,F
+2738,342, 157 , 118 , $48 , $59.99 , $230 ,Women's Apparel,Dec,10:00,Monday,F
+1319,295, 118 , 118 , $47 , $59.99 , $135 ,Footwear,Oct,10:00,Tuesday,F
+20637,355, 118 , 118 , $51 , $64.99 , $155 ,Women's Apparel,Nov,17:00,Wednesday,F
+15325,895, 118 , 118 , $49 , $64.99 , $122 ,Women's Apparel,Nov,10:00,Monday,F
+7980,201, 118 , 118 , $103 , $134.99 , $303 ,Men's Apparel,Oct,10:00,Monday,F
+5618,816, 118 , 118 , $104 , $139.99 , $296 ,Women's Apparel,Nov,10:00,Saturday,F
+24237,661, 118 , 118 , $113 , $149.99 , $288 ,Women's Apparel,Nov,17:00,Monday,F
+5587,567, 118 , 118 , $173 , $224.99 , $485 ,Women's Apparel,Nov,17:00,Tuesday,F
+8387,279, 117 , 117 , $8 , $9.99 , $50 ,Footwear,Oct,10:00,Wednesday,F
+10197,555, 117 , 117 , $10 , $14.99 , $63 ,Women's Apparel,Nov,17:00,Wednesday,F
+19025,910, 117 , 117 , $45 , $59.99 , $117 ,Women's Apparel,Nov,17:00,Monday,F
+12597,511, 117 , 117 , $52 , $64.99 , $167 ,Women's Apparel,Nov,17:00,Tuesday,F
+18285,557, 117 , 117 , $92 , $114.99 , $335 ,Women's Apparel,Oct,10:00,Tuesday,F
+6045,81, 117 , 117 , $97 , $129.99 , $232 ,Men's Apparel,Oct,10:00,Friday,F
+660,706, 117 , 117 , $104 , $134.99 , $315 ,Women's Apparel,Oct,10:00,Tuesday,F
+13264,12, 117 , 117 , $127 , $169.99 , $360 ,Men's Apparel,Nov,17:00,Wednesday,F
+19103,377, 117 , 117 , $147 , $184.99 , $475 ,Women's Apparel,Dec,17:00,Wednesday,F
+789,723, 117 , 117 , $149 , $194.99 , $447 ,Women's Apparel,Oct,10:00,Thursday,F
+10086,882, 117 , 117 , $159 , $204.99 , $425 ,Women's Apparel,Nov,10:00,Friday,F
+3861,963, 117 , 117 , $205 , $254.99 , $531 ,Women's Apparel,Dec,10:00,Saturday,F
+3950,970, 116 , 116 , $10 , $9.99 , $91 ,Women's Apparel,Nov,10:00,Monday,F
+9819,5, 139 , 116 , $10 , $9.99 , $70 ,Men's Apparel,Nov,17:00,Tuesday,F
+22256,365, 130 , 116 , $10 , $14.99 , $90 ,Women's Apparel,Nov,17:00,Tuesday,F
+22769,470, 116 , 116 , $23 , $34.99 , $80 ,Women's Apparel,Oct,10:00,Friday,F
+9529,645, 116 , 116 , $60 , $84.99 , $163 ,Women's Apparel,Nov,17:00,Wednesday,F
+14859,326, 116 , 116 , $109 , $139.99 , $296 ,Women's Apparel,Nov,17:00,Thursday,F
+513,342, 116 , 116 , $112 , $149.99 , $280 ,Women's Apparel,Dec,10:00,Monday,F
+13099,846, 116 , 116 , $129 , $159.99 , $340 ,Women's Apparel,Nov,17:00,Monday,F
+23551,432, 116 , 116 , $129 , $164.99 , $345 ,Women's Apparel,Nov,17:00,Thursday,F
+12319,347, 116 , 116 , $140 , $179.99 , $350 ,Women's Apparel,Dec,17:00,Thursday,F
+26184,597, 116 , 116 , $145 , $199.99 , $430 ,Women's Apparel,Dec,17:00,Sunday,F
+21412,289, 115 , 115 , $7 , $9.99 , $27 ,Footwear,Oct,10:00,Wednesday,F
+4196,289, 115 , 115 , $5 , $9.99 , $27 ,Footwear,Oct,10:00,Wednesday,F
+14154,970, 126 , 115 , $11 , $14.99 , $93 ,Women's Apparel,Nov,10:00,Monday,F
+24024,160, 115 , 115 , $32 , $44.99 , $126 ,Men's Apparel,Nov,17:00,Wednesday,F
+7493,472, 115 , 115 , $116 , $154.99 , $435 ,Women's Apparel,Oct,10:00,Sunday,F
+30074,643, 115 , 115 , $211 , $269.99 , $582 ,Women's Apparel,Dec,10:00,Monday,F
+23480,590, 118 , 114 , $10 , $9.99 , $91 ,Women's Apparel,Oct,10:00,Tuesday,F
+9920,249, 114 , 114 , $9 , $9.99 , $34 ,Footwear,Oct,10:00,Thursday,F
+22273,239, 124 , 114 , $8 , $9.99 , $82 ,Footwear,Oct,10:00,Friday,F
+24358,224, 114 , 114 , $7 , $9.99 , $29 ,Footwear,Oct,10:00,Sunday,F
+13256,865, 132 , 114 , $10 , $14.99 , $84 ,Women's Apparel,Nov,17:00,Tuesday,F
+10765,905, 138 , 114 , $18 , $19.99 , $98 ,Women's Apparel,Nov,10:00,Tuesday,F
+3285,785, 114 , 114 , $26 , $34.99 , $89 ,Women's Apparel,Nov,10:00,Monday,F
+2205,420, 114 , 114 , $33 , $39.99 , $109 ,Women's Apparel,Oct,10:00,Monday,F
+1793,170, 114 , 114 , $32 , $39.99 , $112 ,Men's Apparel,Oct,10:00,Thursday,F
+17272,185, 114 , 114 , $51 , $69.99 , $157 ,Men's Apparel,Nov,17:00,Thursday,F
+18404,391, 114 , 114 , $62 , $79.99 , $230 ,Women's Apparel,Oct,10:00,Sunday,F
+1715,486, 114 , 114 , $77 , $104.99 , $261 ,Women's Apparel,Oct,10:00,Wednesday,F
+19797,223, 114 , 114 , $213 , $279.99 , $560 ,Footwear,Dec,10:00,Monday,F
+12884,244, 113 , 113 , $10 , $14.99 , $33 ,Footwear,Nov,17:00,Monday,F
+22453,185, 113 , 113 , $33 , $44.99 , $99 ,Men's Apparel,Nov,17:00,Thursday,F
+27630,745, 113 , 113 , $41 , $54.99 , $142 ,Women's Apparel,Oct,10:00,Tuesday,F
+18104,960, 113 , 113 , $47 , $59.99 , $132 ,Women's Apparel,Nov,17:00,Monday,F
+20670,546, 113 , 113 , $96 , $124.99 , $287 ,Women's Apparel,Oct,10:00,Friday,F
+22340,421, 113 , 113 , $106 , $129.99 , $304 ,Women's Apparel,Oct,10:00,Friday,F
+16779,681, 113 , 113 , $103 , $129.99 , $280 ,Women's Apparel,Oct,10:00,Thursday,F
+9030,196, 113 , 113 , $139 , $174.99 , $313 ,Men's Apparel,Dec,10:00,Thursday,F
+2278,978, 113 , 113 , $185 , $239.99 , $588 ,Women's Apparel,Dec,10:00,Thursday,F
+10445,259, 124 , 112 , $5 , $9.99 , $38 ,Footwear,Oct,10:00,Tuesday,F
+20013,210, 146 , 112 , $10 , $9.99 , $88 ,Footwear,Oct,10:00,Monday,F
+24057,264, 112 , 112 , $5 , $9.99 , $70 ,Footwear,Nov,17:00,Monday,F
+29637,355, 112 , 112 , $10 , $14.99 , $72 ,Women's Apparel,Nov,17:00,Wednesday,F
+25447,615, 112 , 112 , $17 , $19.99 , $59 ,Women's Apparel,Oct,10:00,Friday,F
+13783,815, 112 , 112 , $44 , $54.99 , $121 ,Women's Apparel,Nov,17:00,Wednesday,F
+11178,5, 112 , 112 , $52 , $64.99 , $137 ,Men's Apparel,Nov,17:00,Tuesday,F
+10313,820, 112 , 112 , $49 , $64.99 , $149 ,Women's Apparel,Nov,10:00,Saturday,F
+19237,210, 112 , 112 , $64 , $79.99 , $128 ,Footwear,Oct,10:00,Monday,F
+30070,907, 112 , 112 , $62 , $84.99 , $195 ,Women's Apparel,Nov,10:00,Wednesday,F
+23168,221, 112 , 112 , $74 , $99.99 , $178 ,Footwear,Oct,10:00,Thursday,F
+27555,911, 112 , 112 , $80 , $104.99 , $195 ,Women's Apparel,Dec,17:00,Monday,F
+9425,357, 112 , 112 , $98 , $124.99 , $395 ,Women's Apparel,Oct,10:00,Tuesday,F
+26461,712, 112 , 112 , $135 , $169.99 , $440 ,Women's Apparel,Dec,17:00,Sunday,F
+19134,923, 112 , 112 , $181 , $239.99 , $432 ,Women's Apparel,Dec,10:00,Saturday,F
+21130,583, 112 , 112 , $284 , $369.99 , $670 ,Women's Apparel,Dec,10:00,Saturday,F
+28246,473, 112 , 112 , $306 , $389.99 , $642 ,Women's Apparel,Dec,17:00,Wednesday,F
+10048,244, 118 , 111 , $5 , $9.99 , $31 ,Footwear,Nov,17:00,Monday,F
+7057,805, 126 , 111 , $10 , $9.99 , $88 ,Women's Apparel,Nov,10:00,Sunday,F
+17282,820, 111 , 111 , $18 , $19.99 , $83 ,Women's Apparel,Nov,10:00,Saturday,F
+17318,410, 111 , 111 , $30 , $39.99 , $130 ,Women's Apparel,Nov,17:00,Wednesday,F
+24262,400, 111 , 111 , $39 , $49.99 , $128 ,Women's Apparel,Oct,10:00,Thursday,D
+14618,625, 111 , 111 , $46 , $59.99 , $102 ,Women's Apparel,Oct,10:00,Tuesday,D
+16791,860, 111 , 111 , $51 , $64.99 , $131 ,Women's Apparel,Nov,10:00,Friday,F
+18957,500, 111 , 111 , $53 , $69.99 , $136 ,Women's Apparel,Oct,10:00,Tuesday,D
+1283,831, 111 , 111 , $62 , $79.99 , $200 ,Women's Apparel,Dec,17:00,Friday,F
+30364,907, 111 , 111 , $65 , $84.99 , $375 ,Women's Apparel,Nov,10:00,Wednesday,F
+2757,900, 111 , 111 , $64 , $84.99 , $166 ,Women's Apparel,Nov,10:00,Tuesday,D
+15550,646, 111 , 111 , $72 , $94.99 , $197 ,Women's Apparel,Oct,10:00,Saturday,F
+24398,161, 111 , 111 , $89 , $119.99 , $300 ,Men's Apparel,Oct,10:00,Thursday,F
+15033,809, 111 , 111 , $105 , $129.99 , $550 ,Women's Apparel,Dec,17:00,Sunday,F
+19118,23, 111 , 111 , $165 , $214.99 , $539 ,Men's Apparel,Dec,10:00,Tuesday,F
+25984,347, 111 , 111 , $170 , $219.99 , $500 ,Women's Apparel,Dec,17:00,Thursday,F
+21524,824, 111 , 111 , $362 , $474.99 , $835 ,Women's Apparel,Dec,10:00,Friday,F
+7700,239, 127 , 110 , $6 , $9.99 , $33 ,Footwear,Oct,10:00,Friday,F
+2827,249, 114 , 110 , $5 , $9.99 , $49 ,Footwear,Oct,10:00,Thursday,F
+27747,284, 110 , 110 , $9 , $14.99 , $49 ,Footwear,Oct,10:00,Monday,F
+11184,925, 110 , 110 , $19 , $29.99 , $102 ,Women's Apparel,Nov,10:00,Monday,D
+195,545, 110 , 110 , $26 , $34.99 , $80 ,Women's Apparel,Nov,17:00,Tuesday,F
+19451,860, 110 , 110 , $35 , $44.99 , $132 ,Women's Apparel,Nov,10:00,Friday,F
+13911,270, 110 , 110 , $49 , $59.99 , $129 ,Footwear,Oct,10:00,Friday,F
+12078,635, 110 , 110 , $56 , $74.99 , $126 ,Women's Apparel,Oct,10:00,Tuesday,F
+9551,381, 110 , 110 , $66 , $84.99 , $259 ,Women's Apparel,Oct,10:00,Thursday,F
+5642,675, 110 , 110 , $61 , $84.99 , $172 ,Women's Apparel,Nov,17:00,Wednesday,D
+18767,911, 110 , 110 , $87 , $114.99 , $175 ,Women's Apparel,Dec,17:00,Monday,F
+5230,466, 110 , 110 , $95 , $119.99 , $228 ,Women's Apparel,Oct,10:00,Wednesday,F
+2148,651, 110 , 110 , $93 , $124.99 , $209 ,Women's Apparel,Dec,10:00,Friday,F
+1036,573, 110 , 110 , $203 , $264.99 , $469 ,Women's Apparel,Dec,17:00,Friday,F
+5605,820, 113 , 109 , $10 , $9.99 , $94 ,Women's Apparel,Nov,10:00,Saturday,F
+29223,269, 129 , 109 , $5 , $9.99 , $45 ,Footwear,Nov,17:00,Thursday,F
+3147,315, 109 , 109 , $16 , $19.99 , $98 ,Women's Apparel,Oct,10:00,Saturday,F
+12947,825, 109 , 109 , $34 , $44.99 , $93 ,Women's Apparel,Nov,10:00,Friday,D
+16914,240, 109 , 109 , $64 , $84.99 , $175 ,Footwear,Oct,10:00,Saturday,F
+18218,496, 109 , 109 , $88 , $114.99 , $199 ,Women's Apparel,Oct,10:00,Tuesday,F
+26146,806, 109 , 109 , $93 , $119.99 , $234 ,Women's Apparel,Dec,10:00,Wednesday,F
+17816,511, 109 , 109 , $106 , $134.99 , $255 ,Women's Apparel,Nov,17:00,Tuesday,F
+28993,286, 109 , 109 , $104 , $134.99 , $231 ,Footwear,Oct,10:00,Wednesday,F
+5196,391, 109 , 109 , $103 , $134.99 , $303 ,Women's Apparel,Oct,10:00,Sunday,F
+9273,662, 109 , 109 , $164 , $214.99 , $485 ,Women's Apparel,Dec,10:00,Wednesday,F
+1893,838, 109 , 109 , $339 , $449.99 , $702 ,Women's Apparel,Dec,17:00,Thursday,F
+15106,469, 109 , 109 , $502 , $654.99 ," $1,030 ",Women's Apparel,Dec,17:00,Tuesday,F
+5644,190, 108 , 108 , $20 , $24.99 , $58 ,Men's Apparel,Oct,10:00,Tuesday,F
+2135,505, 108 , 108 , $20 , $24.99 , $106 ,Women's Apparel,Oct,10:00,Friday,F
+5192,310, 108 , 108 , $37 , $44.99 , $99 ,Footwear,Oct,10:00,Tuesday,F
+17287,370, 108 , 108 , $35 , $49.99 , $125 ,Women's Apparel,Oct,10:00,Friday,F
+23909,140, 108 , 108 , $56 , $74.99 , $153 ,Men's Apparel,Oct,10:00,Friday,F
+23736,281, 108 , 108 , $55 , $74.99 , $129 ,Footwear,Oct,10:00,Sunday,F
+19674,501, 108 , 108 , $60 , $79.99 , $134 ,Women's Apparel,Oct,10:00,Thursday,F
+753,546, 108 , 108 , $67 , $84.99 , $253 ,Women's Apparel,Oct,10:00,Friday,F
+2809,870, 108 , 108 , $66 , $84.99 , $169 ,Women's Apparel,Nov,10:00,Wednesday,F
+29625,835, 108 , 108 , $66 , $84.99 , $124 ,Women's Apparel,Nov,10:00,Tuesday,F
+15326,95, 108 , 108 , $68 , $89.99 , $177 ,Men's Apparel,Nov,17:00,Thursday,F
+28350,353, 108 , 108 , $146 , $194.99 , $327 ,Women's Apparel,Dec,10:00,Wednesday,F
+24335,672, 108 , 108 , $179 , $224.99 , $455 ,Women's Apparel,Oct,10:00,Sunday,F
+27674,458, 108 , 108 , $178 , $224.99 , $501 ,Women's Apparel,Dec,17:00,Thursday,F
+11666,367, 108 , 108 , $184 , $239.99 , $410 ,Women's Apparel,Nov,17:00,Thursday,F
+1763,352, 108 , 108 , $194 , $254.99 , $555 ,Women's Apparel,Nov,17:00,Wednesday,F
+8143,812, 108 , 108 , $208 , $269.99 , $520 ,Women's Apparel,Nov,17:00,Friday,F
+21426,964, 108 , 108 , $202 , $269.99 , $705 ,Women's Apparel,Dec,10:00,Wednesday,F
+4398,632, 108 , 108 , $236 , $309.99 , $610 ,Women's Apparel,Oct,10:00,Thursday,F
+12626,679, 108 , 108 , $323 , $419.99 , $660 ,Women's Apparel,Dec,10:00,Thursday,F
+15840,49, 108 , 108 , $365 , $484.99 , $920 ,Men's Apparel,Nov,17:00,Friday,F
+24055,220, 135 , 107 , $10 , $9.99 , $55 ,Footwear,Oct,10:00,Monday,F
+6959,695, 107 , 107 , $10 , $9.99 , $73 ,Women's Apparel,Nov,17:00,Tuesday,F
+10639,234, 130 , 107 , $9 , $9.99 , $36 ,Footwear,Nov,17:00,Tuesday,F
+13798,284, 141 , 107 , $14 , $14.99 , $75 ,Footwear,Oct,10:00,Monday,F
+1204,269, 107 , 107 , $11 , $14.99 , $45 ,Footwear,Nov,17:00,Thursday,F
+19471,585, 107 , 107 , $10 , $14.99 , $99 ,Women's Apparel,Oct,10:00,Saturday,F
+5229,835, 138 , 107 , $20 , $24.99 , $94 ,Women's Apparel,Nov,10:00,Tuesday,F
+1184,445, 107 , 107 , $20 , $29.99 , $105 ,Women's Apparel,Oct,10:00,Sunday,F
+21726,985, 107 , 107 , $26 , $34.99 , $77 ,Women's Apparel,Nov,17:00,Friday,F
+3398,715, 107 , 107 , $36 , $44.99 , $123 ,Women's Apparel,Oct,10:00,Tuesday,F
+4912,348, 123 , 107 , $59 , $74.99 , $315 ,Women's Apparel,Dec,10:00,Friday,F
+3127,40, 107 , 107 , $74 , $94.99 , $179 ,Men's Apparel,Oct,10:00,Thursday,F
+8438,111, 107 , 107 , $70 , $94.99 , $263 ,Men's Apparel,Oct,10:00,Thursday,F
+23286,206, 107 , 107 , $94 , $119.99 , $222 ,Men's Apparel,Dec,10:00,Wednesday,F
+22260,601, 107 , 107 , $99 , $124.99 , $293 ,Women's Apparel,Nov,17:00,Saturday,F
+17868,6, 107 , 107 , $111 , $134.99 , $255 ,Men's Apparel,Dec,17:00,Monday,F
+10948,156, 107 , 107 , $104 , $139.99 , $278 ,Men's Apparel,Oct,10:00,Monday,F
+24740,551, 107 , 107 , $114 , $144.99 , $283 ,Women's Apparel,Oct,10:00,Monday,F
+19617,563, 107 , 107 , $196 , $244.99 , $437 ,Women's Apparel,Dec,10:00,Wednesday,F
+21922,813, 107 , 107 , $189 , $244.99 , $593 ,Women's Apparel,Dec,10:00,Friday,F
+27874,918, 107 , 107 , $208 , $274.99 , $599 ,Women's Apparel,Dec,17:00,Thursday,F
+23200,117, 107 , 107 , $217 , $289.99 , $550 ,Men's Apparel,Oct,10:00,Wednesday,F
+18583,569, 107 , 107 , $256 , $339.99 , $775 ,Women's Apparel,Dec,17:00,Tuesday,F
+29292,708, 107 , 107 , $295 , $379.99 , $656 ,Women's Apparel,Dec,17:00,Friday,F
+2516,314, 131 , 106 , $5 , $9.99 , $46 ,Footwear,Oct,10:00,Thursday,F
+22666,20, 133 , 106 , $10 , $14.99 , $84 ,Men's Apparel,Oct,10:00,Wednesday,F
+28108,209, 106 , 106 , $9 , $14.99 , $26 ,Footwear,Oct,10:00,Wednesday,F
+11288,970, 106 , 106 , $23 , $29.99 , $102 ,Women's Apparel,Nov,10:00,Monday,F
+21804,960, 106 , 106 , $29 , $34.99 , $68 ,Women's Apparel,Nov,17:00,Monday,F
+17269,370, 106 , 106 , $31 , $44.99 , $114 ,Women's Apparel,Oct,10:00,Friday,F
+20744,125, 106 , 106 , $37 , $49.99 , $128 ,Men's Apparel,Nov,17:00,Tuesday,D
+23244,886, 106 , 106 , $43 , $54.99 , $97 ,Women's Apparel,Nov,10:00,Wednesday,F
+15399,640, 106 , 106 , $40 , $54.99 , $112 ,Women's Apparel,Nov,17:00,Sunday,F
+21850,680, 106 , 106 , $47 , $59.99 , $120 ,Women's Apparel,Oct,10:00,Sunday,F
+20992,365, 106 , 106 , $60 , $74.99 , $150 ,Women's Apparel,Nov,17:00,Tuesday,F
+10375,502, 106 , 106 , $98 , $119.99 , $260 ,Women's Apparel,Oct,10:00,Tuesday,F
+20340,908, 134 , 106 , $98 , $124.99 , $437 ,Women's Apparel,Dec,10:00,Wednesday,F
+2208,567, 106 , 106 , $113 , $144.99 , $315 ,Women's Apparel,Nov,17:00,Tuesday,F
+14432,562, 106 , 106 , $112 , $144.99 , $375 ,Women's Apparel,Oct,10:00,Monday,F
+21212,481, 106 , 106 , $113 , $149.99 , $324 ,Women's Apparel,Oct,10:00,Friday,F
+28721,932, 106 , 106 , $161 , $204.99 , $305 ,Women's Apparel,Nov,10:00,Wednesday,F
+20988,472, 106 , 106 , $168 , $209.99 , $400 ,Women's Apparel,Oct,10:00,Sunday,F
+27156,813, 106 , 106 , $174 , $224.99 , $477 ,Women's Apparel,Dec,10:00,Friday,F
+27880,23, 106 , 106 , $239 , $299.99 , $648 ,Men's Apparel,Dec,10:00,Tuesday,F
+25405,763, 106 , 106 , $244 , $324.99 , $505 ,Women's Apparel,Dec,17:00,Monday,F
+27972,353, 106 , 106 , $286 , $369.99 , $658 ,Women's Apparel,Dec,10:00,Wednesday,F
+7422,825, 107 , 105 , $10 , $9.99 , $94 ,Women's Apparel,Nov,10:00,Friday,D
+22267,544, 125 , 105 , $11 , $14.99 , $105 ,Women's Apparel,Nov,17:00,Monday,F
+12650,819, 105 , 105 , $10 , $14.99 , $90 ,Women's Apparel,Dec,17:00,Sunday,F
+10227,630, 105 , 105 , $24 , $34.99 , $104 ,Women's Apparel,Oct,10:00,Thursday,F
+8176,559, 106 , 105 , $37 , $44.99 , $330 ,Women's Apparel,Oct,10:00,Saturday,F
+30066,660, 105 , 105 , $38 , $49.99 , $122 ,Women's Apparel,Oct,10:00,Friday,F
+13785,985, 105 , 105 , $48 , $64.99 , $107 ,Women's Apparel,Nov,17:00,Friday,F
+14282,20, 105 , 105 , $77 , $99.99 , $184 ,Men's Apparel,Oct,10:00,Wednesday,F
+4538,211, 105 , 105 , $93 , $114.99 , $181 ,Footwear,Nov,17:00,Tuesday,F
+28614,156, 105 , 105 , $89 , $119.99 , $240 ,Men's Apparel,Oct,10:00,Monday,F
+11896,636, 105 , 105 , $97 , $129.99 , $298 ,Women's Apparel,Oct,10:00,Sunday,F
+20127,392, 105 , 105 , $128 , $169.99 , $460 ,Women's Apparel,Dec,10:00,Monday,F
+21851,37, 105 , 105 , $129 , $174.99 , $345 ,Men's Apparel,Dec,10:00,Wednesday,F
+11389,902, 105 , 105 , $149 , $189.99 , $370 ,Women's Apparel,Dec,17:00,Wednesday,F
+2532,972, 105 , 105 , $156 , $194.99 , $425 ,Women's Apparel,Nov,10:00,Wednesday,F
+21466,582, 105 , 105 , $156 , $204.99 , $335 ,Women's Apparel,Oct,10:00,Wednesday,F
+15697,454, 105 , 105 , $172 , $224.99 , $615 ,Women's Apparel,Nov,17:00,Sunday,F
+11966,153, 105 , 105 , $181 , $244.99 , $593 ,Men's Apparel,Dec,10:00,Thursday,F
+7826,703, 105 , 105 , $234 , $304.99 , $665 ,Women's Apparel,Dec,10:00,Tuesday,F
+5287,103, 105 , 105 , $248 , $324.99 , $625 ,Men's Apparel,Dec,17:00,Tuesday,F
+18635,779, 105 , 105 , $353 , $464.99 , $810 ,Women's Apparel,Dec,17:00,Thursday,F
+13844,244, 134 , 104 , $7 , $9.99 , $26 ,Footwear,Nov,17:00,Monday,F
+29812,269, 110 , 104 , $6 , $9.99 , $27 ,Footwear,Nov,17:00,Thursday,F
+14195,399, 104 , 104 , $10 , $9.99 , $41 ,Women's Apparel,Dec,17:00,Sunday,F
+19089,980, 138 , 104 , $14 , $14.99 , $78 ,Women's Apparel,Nov,10:00,Friday,F
+19313,185, 104 , 104 , $10 , $14.99 , $48 ,Men's Apparel,Nov,17:00,Thursday,F
+19220,355, 151 , 104 , $17 , $19.99 , $92 ,Women's Apparel,Nov,17:00,Wednesday,F
+12272,390, 105 , 104 , $12 , $19.99 , $89 ,Women's Apparel,Nov,17:00,Thursday,F
+12973,244, 104 , 104 , $5 , $19.99 , $49 ,Footwear,Nov,17:00,Monday,F
+25919,885, 104 , 104 , $23 , $29.99 , $81 ,Women's Apparel,Nov,10:00,Thursday,F
+8902,145, 104 , 104 , $35 , $49.99 , $95 ,Men's Apparel,Oct,10:00,Tuesday,F
+13353,715, 104 , 104 , $40 , $54.99 , $106 ,Women's Apparel,Oct,10:00,Tuesday,F
+18757,230, 104 , 104 , $46 , $59.99 , $135 ,Footwear,Oct,10:00,Monday,F
+16961,15, 104 , 104 , $49 , $64.99 , $140 ,Men's Apparel,Oct,10:00,Wednesday,F
+28790,325, 104 , 104 , $51 , $69.99 , $121 ,Women's Apparel,Oct,10:00,Tuesday,D
+3533,905, 104 , 104 , $56 , $74.99 , $120 ,Women's Apparel,Nov,10:00,Tuesday,F
+14635,910, 104 , 104 , $53 , $74.99 , $120 ,Women's Apparel,Nov,17:00,Monday,F
+7895,945, 104 , 104 , $57 , $79.99 , $164 ,Women's Apparel,Nov,10:00,Wednesday,F
+15221,945, 104 , 104 , $66 , $89.99 , $150 ,Women's Apparel,Nov,10:00,Wednesday,F
+16146,276, 104 , 104 , $80 , $99.99 , $244 ,Footwear,Dec,17:00,Friday,F
+23987,106, 104 , 104 , $107 , $134.99 , $231 ,Men's Apparel,Nov,17:00,Tuesday,F
+29587,568, 104 , 104 , $106 , $139.99 , $368 ,Women's Apparel,Dec,17:00,Monday,F
+2002,248, 104 , 104 , $120 , $159.99 , $270 ,Footwear,Dec,10:00,Monday,F
+28599,286, 104 , 104 , $128 , $164.99 , $345 ,Footwear,Oct,10:00,Wednesday,F
+1588,511, 104 , 104 , $133 , $169.99 , $344 ,Women's Apparel,Nov,17:00,Tuesday,F
+6184,2, 104 , 104 , $156 , $204.99 , $495 ,Men's Apparel,Oct,10:00,Monday,F
+22645,443, 104 , 104 , $167 , $209.99 , $522 ,Women's Apparel,Dec,10:00,Monday,F
+6069,802, 104 , 104 , $156 , $209.99 , $500 ,Women's Apparel,Nov,17:00,Tuesday,F
+29257,662, 104 , 104 , $174 , $224.99 , $475 ,Women's Apparel,Dec,10:00,Wednesday,F
+18994,612, 104 , 104 , $171 , $229.99 , $420 ,Women's Apparel,Nov,17:00,Wednesday,F
+13524,949, 104 , 104 , $184 , $249.99 , $565 ,Women's Apparel,Nov,10:00,Tuesday,F
+21058,293, 104 , 104 , $228 , $284.99 , $465 ,Footwear,Dec,10:00,Tuesday,F
+8730,344, 104 , 104 , $237 , $304.99 , $755 ,Women's Apparel,Dec,10:00,Saturday,F
+8397,983, 104 , 104 , $307 , $399.99 , $712 ,Women's Apparel,Dec,17:00,Wednesday,F
+5361,309, 125 , 103 , $5 , $9.99 , $29 ,Footwear,Oct,10:00,Friday,F
+14159,274, 103 , 103 , $9 , $9.99 , $29 ,Footwear,Nov,17:00,Thursday,F
+8908,309, 103 , 103 , $8 , $9.99 , $34 ,Footwear,Oct,10:00,Friday,F
+4466,299, 136 , 103 , $8 , $9.99 , $70 ,Footwear,Nov,17:00,Monday,F
+2437,535, 104 , 103 , $14 , $14.99 , $63 ,Women's Apparel,Nov,17:00,Wednesday,F
+26743,645, 106 , 103 , $14 , $19.99 , $98 ,Women's Apparel,Nov,17:00,Wednesday,F
+6304,304, 103 , 103 , $11 , $19.99 , $128 ,Footwear,Oct,10:00,Thursday,F
+14385,244, 103 , 103 , $5 , $19.99 , $49 ,Footwear,Nov,17:00,Monday,F
+16631,909, 103 , 103 , $33 , $44.99 , $285 ,Women's Apparel,Dec,17:00,Sunday,F
+25595,930, 103 , 103 , $48 , $59.99 , $132 ,Women's Apparel,Nov,10:00,Sunday,F
+18102,925, 103 , 103 , $48 , $59.99 , $111 ,Women's Apparel,Nov,10:00,Monday,D
+18704,345, 103 , 103 , $47 , $59.99 , $90 ,Women's Apparel,Oct,10:00,Monday,F
+24060,660, 103 , 103 , $47 , $59.99 , $138 ,Women's Apparel,Oct,10:00,Friday,F
+23822,550, 103 , 103 , $57 , $69.99 , $103 ,Women's Apparel,Nov,17:00,Monday,D
+15208,525, 103 , 103 , $54 , $69.99 , $115 ,Women's Apparel,Nov,17:00,Monday,D
+4765,536, 103 , 103 , $68 , $94.99 , $191 ,Women's Apparel,Dec,10:00,Saturday,F
+11472,531, 103 , 103 , $95 , $114.99 , $199 ,Women's Apparel,Oct,10:00,Tuesday,F
+79,481, 103 , 103 , $93 , $119.99 , $282 ,Women's Apparel,Oct,10:00,Friday,F
+28204,873, 103 , 103 , $104 , $134.99 , $243 ,Women's Apparel,Dec,10:00,Monday,F
+12099,747, 103 , 103 , $115 , $144.99 , $225 ,Women's Apparel,Dec,10:00,Monday,F
+4027,318, 103 , 103 , $118 , $149.99 , $462 ,Women's Apparel,Dec,10:00,Sunday,F
+24764,527, 103 , 103 , $113 , $149.99 , $360 ,Women's Apparel,Dec,10:00,Wednesday,F
+1867,412, 103 , 103 , $139 , $179.99 , $360 ,Women's Apparel,Oct,10:00,Wednesday,F
+14672,647, 103 , 103 , $171 , $214.99 , $405 ,Women's Apparel,Oct,10:00,Sunday,F
+13332,633, 103 , 103 , $223 , $289.99 , $578 ,Women's Apparel,Dec,10:00,Wednesday,F
+7921,527, 103 , 103 , $234 , $294.99 , $565 ,Women's Apparel,Dec,10:00,Wednesday,F
+15695,592, 103 , 103 , $248 , $314.99 , $595 ,Women's Apparel,Dec,17:00,Monday,F
+16323,533, 103 , 103 , $240 , $314.99 , $639 ,Women's Apparel,Dec,10:00,Thursday,F
+19530,175, 118 , 102 , $10 , $9.99 , $91 ,Men's Apparel,Oct,10:00,Wednesday,D
+8540,264, 126 , 102 , $5 , $9.99 , $35 ,Footwear,Nov,17:00,Monday,F
+21556,485, 131 , 102 , $10 , $14.99 , $69 ,Women's Apparel,Nov,17:00,Monday,F
+5125,115, 102 , 102 , $12 , $19.99 , $62 ,Men's Apparel,Oct,10:00,Saturday,F
+204,310, 102 , 102 , $15 , $24.99 , $61 ,Footwear,Oct,10:00,Tuesday,F
+27030,160, 102 , 102 , $43 , $54.99 , $136 ,Men's Apparel,Nov,17:00,Wednesday,F
+28529,321, 102 , 102 , $75 , $94.99 , $221 ,Women's Apparel,Oct,10:00,Wednesday,F
+6896,440, 102 , 102 , $72 , $94.99 , $170 ,Women's Apparel,Nov,17:00,Wednesday,F
+24957,356, 102 , 102 , $76 , $99.99 , $190 ,Women's Apparel,Oct,10:00,Thursday,F
+26429,846, 102 , 102 , $95 , $129.99 , $286 ,Women's Apparel,Nov,17:00,Monday,F
+22747,906, 102 , 102 , $103 , $134.99 , $243 ,Women's Apparel,Nov,17:00,Wednesday,F
+11970,741, 102 , 102 , $108 , $144.99 , $199 ,Women's Apparel,Oct,10:00,Tuesday,F
+16539,746, 102 , 102 , $125 , $159.99 , $334 ,Women's Apparel,Nov,10:00,Sunday,F
+12907,156, 102 , 102 , $123 , $164.99 , $309 ,Men's Apparel,Oct,10:00,Monday,F
+444,246, 102 , 102 , $138 , $179.99 , $312 ,Footwear,Dec,10:00,Tuesday,F
+29095,997, 102 , 102 , $166 , $214.99 , $385 ,Women's Apparel,Nov,10:00,Friday,F
+26868,468, 102 , 102 , $199 , $254.99 , $363 ,Women's Apparel,Dec,10:00,Friday,F
+24523,358, 102 , 102 , $215 , $274.99 , $527 ,Women's Apparel,Dec,10:00,Sunday,F
+25074,377, 102 , 102 , $224 , $284.99 , $475 ,Women's Apparel,Dec,17:00,Wednesday,F
+11455,89, 102 , 102 , $380 , $489.99 , $940 ,Men's Apparel,Dec,10:00,Thursday,F
+23616,653, 101 , 101 , $10 , $9.99 , $49 ,Women's Apparel,Dec,17:00,Friday,F
+9362,400, 101 , 101 , $14 , $14.99 , $51 ,Women's Apparel,Oct,10:00,Thursday,D
+16386,294, 123 , 101 , $9 , $14.99 , $87 ,Footwear,Oct,10:00,Monday,F
+15838,264, 101 , 101 , $5 , $19.99 , $44 ,Footwear,Nov,17:00,Monday,F
+18972,160, 101 , 101 , $36 , $44.99 , $114 ,Men's Apparel,Nov,17:00,Wednesday,F
+11911,227, 116 , 101 , $38 , $49.99 , $290 ,Footwear,Oct,10:00,Monday,F
+18545,930, 101 , 101 , $71 , $94.99 , $140 ,Women's Apparel,Nov,10:00,Sunday,F
+9662,651, 101 , 101 , $80 , $99.99 , $172 ,Women's Apparel,Dec,10:00,Friday,F
+2411,911, 101 , 101 , $79 , $104.99 , $249 ,Women's Apparel,Dec,17:00,Monday,F
+17618,837, 101 , 101 , $88 , $114.99 , $285 ,Women's Apparel,Dec,10:00,Tuesday,F
+13920,652, 101 , 101 , $87 , $114.99 , $325 ,Women's Apparel,Oct,10:00,Monday,F
+16095,286, 101 , 101 , $90 , $119.99 , $246 ,Footwear,Oct,10:00,Wednesday,F
+19182,697, 101 , 101 , $104 , $134.99 , $315 ,Women's Apparel,Oct,10:00,Monday,F
+962,643, 121 , 101 , $109 , $139.99 , $500 ,Women's Apparel,Dec,10:00,Monday,F
+12753,262, 101 , 101 , $121 , $149.99 , $330 ,Footwear,Oct,10:00,Thursday,F
+10399,57, 101 , 101 , $128 , $164.99 , $395 ,Men's Apparel,Nov,17:00,Wednesday,F
+26937,631, 101 , 101 , $129 , $169.99 , $302 ,Women's Apparel,Dec,10:00,Wednesday,F
+29649,596, 101 , 101 , $126 , $169.99 , $254 ,Women's Apparel,Nov,17:00,Wednesday,F
+13790,882, 101 , 101 , $133 , $174.99 , $375 ,Women's Apparel,Nov,10:00,Friday,F
+24968,787, 101 , 101 , $149 , $194.99 , $455 ,Women's Apparel,Nov,10:00,Thursday,F
+24282,167, 101 , 101 , $151 , $199.99 , $440 ,Men's Apparel,Oct,10:00,Wednesday,F
+1791,482, 101 , 101 , $176 , $224.99 , $455 ,Women's Apparel,Oct,10:00,Monday,F
+21933,113, 101 , 101 , $249 , $309.99 , $646 ,Men's Apparel,Dec,10:00,Monday,F
+12959,558, 101 , 101 , $325 , $414.99 , $703 ,Women's Apparel,Dec,10:00,Saturday,F
+15034,929, 101 , 101 , $473 , $624.99 ," $1,075 ",Women's Apparel,Dec,10:00,Tuesday,F
+6558,734, 101 , 101 , $733 , $949.99 ," $1,400 ",Women's Apparel,Dec,10:00,Wednesday,F
+28625,209, 106 , 100 , $9 , $9.99 , $39 ,Footwear,Oct,10:00,Wednesday,F
+21558,224, 100 , 100 , $9 , $9.99 , $45 ,Footwear,Oct,10:00,Sunday,F
+20857,785, 100 , 100 , $13 , $14.99 , $105 ,Women's Apparel,Nov,10:00,Monday,F
+10120,555, 100 , 100 , $10 , $14.99 , $87 ,Women's Apparel,Nov,17:00,Wednesday,F
+14827,825, 100 , 100 , $15 , $19.99 , $92 ,Women's Apparel,Nov,10:00,Friday,D
+25734,955, 103 , 100 , $22 , $24.99 , $94 ,Women's Apparel,Nov,10:00,Tuesday,F
+26308,915, 100 , 100 , $16 , $24.99 , $55 ,Women's Apparel,Nov,10:00,Wednesday,F
+17342,325, 100 , 100 , $33 , $44.99 , $108 ,Women's Apparel,Oct,10:00,Tuesday,D
+27735,50, 100 , 100 , $41 , $49.99 , $128 ,Men's Apparel,Oct,10:00,Friday,D
+24423,165, 100 , 100 , $40 , $49.99 , $134 ,Men's Apparel,Oct,10:00,Monday,F
+29918,660, 100 , 100 , $51 , $69.99 , $157 ,Women's Apparel,Oct,10:00,Friday,F
+15810,820, 100 , 100 , $72 , $99.99 , $151 ,Women's Apparel,Nov,10:00,Saturday,F
+10009,466, 100 , 100 , $82 , $104.99 , $249 ,Women's Apparel,Oct,10:00,Wednesday,F
+14489,756, 100 , 100 , $87 , $109.99 , $146 ,Women's Apparel,Dec,10:00,Wednesday,F
+8632,576, 100 , 100 , $79 , $109.99 , $242 ,Women's Apparel,Dec,17:00,Saturday,F
+15310,436, 100 , 100 , $94 , $119.99 , $240 ,Women's Apparel,Oct,10:00,Friday,F
+5831,794, 100 , 100 , $143 , $184.99 , $365 ,Women's Apparel,Nov,10:00,Wednesday,F
+25323,143, 100 , 100 , $169 , $214.99 , $479 ,Men's Apparel,Dec,17:00,Sunday,F
+16172,487, 100 , 100 , $173 , $229.99 , $470 ,Women's Apparel,Dec,10:00,Friday,F
+21380,642, 100 , 100 , $191 , $244.99 , $525 ,Women's Apparel,Dec,10:00,Tuesday,F
+10224,793, 100 , 100 , $185 , $244.99 , $569 ,Women's Apparel,Dec,10:00,Tuesday,F
+9615,632, 100 , 100 , $203 , $264.99 , $395 ,Women's Apparel,Oct,10:00,Thursday,F
+2915,703, 100 , 100 , $342 , $459.99 , $760 ,Women's Apparel,Dec,10:00,Tuesday,F
+22702,518, 100 , 100 , $353 , $469.99 , $746 ,Women's Apparel,Dec,17:00,Wednesday,F
+16466,619, 100 , 100 , $555 , $739.99 ," $1,040 ",Women's Apparel,Dec,10:00,Sunday,F
+4500,569, 100 , 100 , $615 , $794.99 ," $1,140 ",Women's Apparel,Dec,17:00,Tuesday,F
+20501,55, 151 , 99 , $10 , $9.99 , $58 ,Men's Apparel,Oct,10:00,Monday,F
+16140,680, 99 , 99 , $10 , $9.99 , $91 ,Women's Apparel,Oct,10:00,Sunday,F
+6375,875, 99 , 99 , $15 , $24.99 , $79 ,Women's Apparel,Nov,10:00,Thursday,D
+12746,210, 99 , 99 , $37 , $44.99 , $126 ,Footwear,Oct,10:00,Monday,F
+21760,170, 99 , 99 , $41 , $49.99 , $137 ,Men's Apparel,Oct,10:00,Thursday,F
+14342,76, 99 , 99 , $65 , $84.99 , $217 ,Men's Apparel,Dec,17:00,Monday,F
+24622,832, 99 , 99 , $73 , $89.99 , $260 ,Women's Apparel,Nov,10:00,Friday,F
+958,21, 99 , 99 , $79 , $94.99 , $185 ,Men's Apparel,Oct,10:00,Thursday,F
+7219,370, 99 , 99 , $70 , $94.99 , $179 ,Women's Apparel,Oct,10:00,Friday,F
+21803,318, 122 , 99 , $89 , $114.99 , $463 ,Women's Apparel,Dec,10:00,Sunday,F
+21745,481, 99 , 99 , $96 , $119.99 , $240 ,Women's Apparel,Oct,10:00,Friday,F
+5461,144, 99 , 99 , $94 , $119.99 , $480 ,Men's Apparel,Dec,10:00,Monday,F
+18411,601, 99 , 99 , $94 , $119.99 , $210 ,Women's Apparel,Nov,17:00,Saturday,F
+8463,827, 99 , 99 , $92 , $119.99 , $160 ,Women's Apparel,Dec,10:00,Thursday,F
+20011,596, 99 , 99 , $92 , $119.99 , $276 ,Women's Apparel,Nov,17:00,Wednesday,F
+14087,1, 99 , 99 , $89 , $119.99 , $174 ,Men's Apparel,Oct,10:00,Monday,F
+276,704, 127 , 99 , $113 , $149.99 , $540 ,Women's Apparel,Dec,10:00,Tuesday,F
+25684,937, 99 , 99 , $140 , $179.99 , $410 ,Women's Apparel,Nov,10:00,Thursday,F
+13433,193, 99 , 99 , $139 , $184.99 , $449 ,Men's Apparel,Dec,10:00,Saturday,F
+15808,877, 99 , 99 , $136 , $184.99 , $435 ,Women's Apparel,Nov,17:00,Tuesday,F
+19311,146, 99 , 99 , $150 , $189.99 , $316 ,Men's Apparel,Nov,17:00,Tuesday,F
+1578,727, 99 , 99 , $148 , $189.99 , $420 ,Women's Apparel,Oct,10:00,Saturday,F
+25766,292, 99 , 99 , $152 , $199.99 , $350 ,Footwear,Oct,10:00,Monday,F
+26020,453, 99 , 99 , $169 , $219.99 , $556 ,Women's Apparel,Dec,10:00,Thursday,F
+7519,692, 99 , 99 , $180 , $234.99 , $465 ,Women's Apparel,Nov,17:00,Wednesday,F
+627,117, 99 , 99 , $199 , $249.99 , $410 ,Men's Apparel,Oct,10:00,Wednesday,F
+11222,492, 99 , 99 , $202 , $259.99 , $550 ,Women's Apparel,Oct,10:00,Sunday,F
+1531,762, 99 , 99 , $206 , $274.99 , $545 ,Women's Apparel,Nov,10:00,Saturday,F
+14216,419, 99 , 99 , $238 , $309.99 , $670 ,Women's Apparel,Dec,17:00,Tuesday,F
+25201,207, 99 , 99 , $240 , $319.99 , $430 ,Men's Apparel,Oct,10:00,Wednesday,F
+16446,693, 99 , 99 , $275 , $349.99 , $698 ,Women's Apparel,Dec,10:00,Monday,F
+24449,398, 99 , 99 , $282 , $369.99 , $550 ,Women's Apparel,Dec,10:00,Wednesday,F
+6196,613, 99 , 99 , $387 , $489.99 , $766 ,Women's Apparel,Dec,17:00,Friday,F
+1856,248, 99 , 99 , $368 , $489.99 , $750 ,Footwear,Dec,10:00,Monday,F
+7991,989, 99 , 99 , $665 , $834.99 ," $1,030 ",Women's Apparel,Dec,10:00,Thursday,F
+1730,310, 132 , 98 , $10 , $9.99 , $33 ,Footwear,Oct,10:00,Tuesday,F
+594,309, 118 , 98 , $6 , $9.99 , $37 ,Footwear,Oct,10:00,Friday,F
+18701,289, 106 , 98 , $5 , $9.99 , $43 ,Footwear,Oct,10:00,Wednesday,F
+7411,120, 125 , 98 , $17 , $19.99 , $107 ,Men's Apparel,Nov,17:00,Saturday,F
+10502,470, 101 , 98 , $16 , $24.99 , $106 ,Women's Apparel,Oct,10:00,Friday,F
+14803,685, 98 , 98 , $32 , $44.99 , $132 ,Women's Apparel,Oct,10:00,Thursday,F
+6846,235, 98 , 98 , $31 , $44.99 , $120 ,Footwear,Nov,17:00,Sunday,F
+22347,895, 98 , 98 , $40 , $49.99 , $125 ,Women's Apparel,Nov,10:00,Monday,F
+2358,700, 98 , 98 , $42 , $54.99 , $139 ,Women's Apparel,Oct,10:00,Wednesday,D
+23719,330, 98 , 98 , $46 , $59.99 , $105 ,Women's Apparel,Nov,17:00,Monday,F
+8725,490, 98 , 98 , $45 , $59.99 , $117 ,Women's Apparel,Oct,10:00,Sunday,F
+14413,925, 98 , 98 , $41 , $59.99 , $138 ,Women's Apparel,Nov,10:00,Monday,D
+18745,820, 98 , 98 , $57 , $69.99 , $160 ,Women's Apparel,Nov,10:00,Saturday,F
+5165,705, 98 , 98 , $56 , $69.99 , $121 ,Women's Apparel,Nov,17:00,Wednesday,F
+667,790, 98 , 98 , $66 , $84.99 , $127 ,Women's Apparel,Nov,10:00,Thursday,F
+27364,6, 98 , 98 , $71 , $94.99 , $197 ,Men's Apparel,Dec,17:00,Monday,F
+28508,978, 98 , 98 , $77 , $99.99 , $424 ,Women's Apparel,Dec,10:00,Thursday,F
+7464,493, 118 , 98 , $77 , $99.99 , $412 ,Women's Apparel,Dec,17:00,Sunday,F
+9487,76, 98 , 98 , $82 , $104.99 , $219 ,Men's Apparel,Dec,17:00,Monday,F
+13255,616, 98 , 98 , $80 , $104.99 , $165 ,Women's Apparel,Oct,10:00,Wednesday,F
+582,36, 98 , 98 , $92 , $114.99 , $253 ,Men's Apparel,Oct,10:00,Wednesday,F
+20268,951, 98 , 98 , $111 , $144.99 , $325 ,Women's Apparel,Nov,10:00,Monday,F
+26749,361, 98 , 98 , $106 , $144.99 , $325 ,Women's Apparel,Nov,17:00,Tuesday,F
+4608,127, 98 , 98 , $111 , $149.99 , $400 ,Men's Apparel,Nov,17:00,Tuesday,F
+22842,791, 98 , 98 , $124 , $154.99 , $293 ,Women's Apparel,Nov,17:00,Saturday,F
+2725,591, 98 , 98 , $125 , $169.99 , $350 ,Women's Apparel,Oct,10:00,Friday,F
+28059,868, 98 , 98 , $149 , $184.99 , $473 ,Women's Apparel,Dec,10:00,Sunday,F
+6334,988, 98 , 98 , $152 , $194.99 , $555 ,Women's Apparel,Dec,10:00,Friday,F
+22203,537, 98 , 98 , $150 , $194.99 , $335 ,Women's Apparel,Oct,10:00,Tuesday,F
+28641,807, 98 , 98 , $147 , $194.99 , $355 ,Women's Apparel,Nov,17:00,Wednesday,F
+7425,802, 98 , 98 , $155 , $204.99 , $485 ,Women's Apparel,Nov,17:00,Tuesday,F
+13676,462, 98 , 98 , $181 , $229.99 , $330 ,Women's Apparel,Nov,17:00,Thursday,F
+4134,737, 98 , 98 , $178 , $239.99 , $440 ,Women's Apparel,Dec,10:00,Saturday,F
+3604,918, 98 , 98 , $196 , $254.99 , $435 ,Women's Apparel,Dec,17:00,Thursday,F
+824,168, 98 , 98 , $201 , $259.99 , $608 ,Men's Apparel,Dec,17:00,Tuesday,F
+1430,747, 98 , 98 , $203 , $264.99 , $515 ,Women's Apparel,Dec,10:00,Monday,F
+20431,674, 98 , 98 , $247 , $329.99 , $690 ,Women's Apparel,Dec,10:00,Monday,F
+12721,769, 98 , 98 , $307 , $399.99 , $850 ,Women's Apparel,Nov,10:00,Tuesday,F
+17555,933, 98 , 98 , $316 , $419.99 , $708 ,Women's Apparel,Dec,10:00,Monday,F
+18640,373, 98 , 98 , $383 , $484.99 , $689 ,Women's Apparel,Dec,10:00,Wednesday,F
+24053,133, 98 , 98 , $423 , $534.99 , $859 ,Men's Apparel,Dec,17:00,Thursday,F
+15848,824, 98 , 98 , $511 , $649.99 ," $1,040 ",Women's Apparel,Dec,10:00,Friday,F
+24458,244, 116 , 97 , $7 , $9.99 , $27 ,Footwear,Nov,17:00,Monday,F
+4127,60, 123 , 97 , $10 , $9.99 , $48 ,Men's Apparel,Oct,10:00,Tuesday,F
+22183,330, 112 , 97 , $10 , $9.99 , $82 ,Women's Apparel,Nov,17:00,Monday,F
+20540,915, 104 , 97 , $14 , $14.99 , $87 ,Women's Apparel,Nov,10:00,Wednesday,F
+6890,435, 125 , 97 , $13 , $14.99 , $48 ,Women's Apparel,Oct,10:00,Sunday,F
+15678,280, 97 , 97 , $12 , $14.99 , $87 ,Footwear,Nov,17:00,Tuesday,F
+22811,225, 97 , 97 , $30 , $39.99 , $91 ,Footwear,Oct,10:00,Thursday,D
+24613,211, 125 , 97 , $35 , $49.99 , $206 ,Footwear,Nov,17:00,Tuesday,F
+24084,885, 97 , 97 , $42 , $59.99 , $141 ,Women's Apparel,Nov,10:00,Thursday,F
+6351,706, 97 , 97 , $51 , $64.99 , $233 ,Women's Apparel,Oct,10:00,Tuesday,F
+26509,765, 97 , 97 , $49 , $64.99 , $137 ,Women's Apparel,Nov,10:00,Friday,F
+23666,796, 97 , 97 , $50 , $69.99 , $160 ,Women's Apparel,Dec,10:00,Saturday,F
+4489,101, 97 , 97 , $61 , $74.99 , $219 ,Men's Apparel,Dec,10:00,Thursday,F
+17218,461, 97 , 97 , $59 , $74.99 , $189 ,Women's Apparel,Nov,17:00,Thursday,F
+23489,750, 97 , 97 , $59 , $74.99 , $153 ,Women's Apparel,Nov,17:00,Sunday,D
+15455,715, 97 , 97 , $69 , $89.99 , $153 ,Women's Apparel,Oct,10:00,Tuesday,F
+23393,615, 97 , 97 , $69 , $89.99 , $177 ,Women's Apparel,Oct,10:00,Friday,F
+18572,341, 97 , 97 , $74 , $94.99 , $203 ,Women's Apparel,Oct,10:00,Wednesday,F
+26247,540, 97 , 97 , $72 , $99.99 , $151 ,Women's Apparel,Oct,10:00,Thursday,F
+3933,746, 97 , 97 , $94 , $119.99 , $186 ,Women's Apparel,Nov,10:00,Sunday,F
+7185,436, 97 , 97 , $92 , $119.99 , $210 ,Women's Apparel,Oct,10:00,Friday,F
+10751,766, 97 , 97 , $91 , $119.99 , $204 ,Women's Apparel,Nov,10:00,Thursday,F
+23505,91, 97 , 97 , $100 , $129.99 , $244 ,Men's Apparel,Oct,10:00,Friday,F
+23896,6, 97 , 97 , $110 , $144.99 , $187 ,Men's Apparel,Dec,17:00,Monday,F
+26911,53, 97 , 97 , $233 , $289.99 , $638 ,Men's Apparel,Dec,10:00,Monday,F
+25496,893, 97 , 97 , $235 , $294.99 , $559 ,Women's Apparel,Dec,10:00,Friday,F
+1409,599, 97 , 97 , $252 , $329.99 , $735 ,Women's Apparel,Oct,10:00,Thursday,F
+20760,774, 97 , 97 , $261 , $334.99 , $575 ,Women's Apparel,Dec,17:00,Thursday,F
+13146,643, 97 , 97 , $326 , $429.99 , $706 ,Women's Apparel,Dec,10:00,Monday,F
+7038,478, 97 , 97 , $320 , $434.99 , $795 ,Women's Apparel,Dec,10:00,Sunday,F
+6655,749, 97 , 97 , $550 , $694.99 ," $1,055 ",Women's Apparel,Dec,10:00,Monday,F
+13563,284, 116 , 96 , $5 , $9.99 , $36 ,Footwear,Oct,10:00,Monday,F
+12560,229, 108 , 96 , $5 , $9.99 , $43 ,Footwear,Nov,17:00,Monday,F
+1591,40, 96 , 96 , $10 , $9.99 , $40 ,Men's Apparel,Oct,10:00,Thursday,F
+19517,399, 96 , 96 , $10 , $14.99 , $105 ,Women's Apparel,Dec,17:00,Sunday,F
+21251,304, 115 , 96 , $8 , $14.99 , $51 ,Footwear,Oct,10:00,Thursday,F
+22361,540, 116 , 96 , $13 , $19.99 , $71 ,Women's Apparel,Oct,10:00,Thursday,F
+6732,915, 96 , 96 , $22 , $24.99 , $103 ,Women's Apparel,Nov,10:00,Wednesday,F
+5767,800, 96 , 96 , $51 , $59.99 , $147 ,Women's Apparel,Nov,17:00,Saturday,D
+26501,595, 96 , 96 , $53 , $64.99 , $155 ,Women's Apparel,Oct,10:00,Thursday,F
+13148,385, 96 , 96 , $51 , $64.99 , $131 ,Women's Apparel,Nov,17:00,Wednesday,F
+7285,600, 96 , 96 , $57 , $74.99 , $141 ,Women's Apparel,Nov,17:00,Thursday,D
+2806,481, 96 , 96 , $62 , $84.99 , $223 ,Women's Apparel,Oct,10:00,Friday,F
+29229,890, 96 , 96 , $80 , $99.99 , $187 ,Women's Apparel,Nov,10:00,Wednesday,F
+16634,865, 96 , 96 , $76 , $99.99 , $142 ,Women's Apparel,Nov,17:00,Tuesday,F
+12307,585, 96 , 96 , $86 , $109.99 , $170 ,Women's Apparel,Oct,10:00,Saturday,F
+4288,186, 96 , 96 , $87 , $114.99 , $169 ,Men's Apparel,Oct,10:00,Wednesday,F
+13468,716, 96 , 96 , $96 , $119.99 , $276 ,Women's Apparel,Oct,10:00,Thursday,F
+10719,116, 96 , 96 , $101 , $129.99 , $220 ,Men's Apparel,Oct,10:00,Friday,F
+23072,960, 96 , 96 , $101 , $129.99 , $214 ,Women's Apparel,Nov,17:00,Monday,F
+1174,217, 96 , 96 , $99 , $129.99 , $320 ,Footwear,Nov,17:00,Sunday,F
+27225,711, 96 , 96 , $116 , $149.99 , $192 ,Women's Apparel,Oct,10:00,Wednesday,F
+12318,856, 96 , 96 , $119 , $154.99 , $335 ,Women's Apparel,Dec,10:00,Thursday,F
+25248,12, 96 , 96 , $125 , $169.99 , $340 ,Men's Apparel,Nov,17:00,Wednesday,F
+25157,906, 96 , 96 , $138 , $174.99 , $331 ,Women's Apparel,Nov,17:00,Wednesday,F
+2485,152, 96 , 96 , $149 , $194.99 , $385 ,Men's Apparel,Oct,10:00,Friday,F
+16186,978, 96 , 96 , $153 , $199.99 , $548 ,Women's Apparel,Dec,10:00,Thursday,F
+12064,497, 96 , 96 , $166 , $214.99 , $375 ,Women's Apparel,Oct,10:00,Thursday,F
+25489,427, 96 , 96 , $183 , $249.99 , $520 ,Women's Apparel,Nov,17:00,Monday,F
+18992,203, 96 , 96 , $227 , $294.99 , $487 ,Men's Apparel,Dec,17:00,Thursday,F
+5950,642, 96 , 96 , $217 , $294.99 , $355 ,Women's Apparel,Dec,10:00,Tuesday,F
+10529,442, 96 , 96 , $225 , $299.99 , $510 ,Women's Apparel,Nov,17:00,Monday,F
+10503,39, 96 , 96 , $297 , $374.99 , $795 ,Men's Apparel,Dec,10:00,Tuesday,F
+10205,638, 96 , 96 , $322 , $419.99 , $648 ,Women's Apparel,Oct,10:00,Monday,F
+22405,414, 96 , 96 , $349 , $464.99 , $540 ,Women's Apparel,Dec,17:00,Monday,F
+20710,619, 96 , 96 , $383 , $479.99 , $930 ,Women's Apparel,Dec,10:00,Sunday,F
+13509,829, 96 , 96 , $407 , $549.99 , $910 ,Women's Apparel,Dec,10:00,Wednesday,F
+874,629, 96 , 96 , $461 , $599.99 , $960 ,Women's Apparel,Oct,10:00,Thursday,F
+29740,744, 96 , 96 , $521 , $699.99 ," $1,090 ",Women's Apparel,Dec,17:00,Wednesday,F
+13831,765, 124 , 95 , $10 , $9.99 , $64 ,Women's Apparel,Nov,10:00,Friday,F
+27501,455, 117 , 95 , $12 , $14.99 , $60 ,Women's Apparel,Nov,17:00,Wednesday,F
+24460,945, 123 , 95 , $20 , $24.99 , $106 ,Women's Apparel,Nov,10:00,Wednesday,F
+25145,865, 95 , 95 , $31 , $39.99 , $115 ,Women's Apparel,Nov,17:00,Tuesday,F
+7034,970, 95 , 95 , $29 , $39.99 , $121 ,Women's Apparel,Nov,10:00,Monday,F
+24043,840, 95 , 95 , $26 , $39.99 , $94 ,Women's Apparel,Nov,10:00,Monday,F
+4387,556, 122 , 95 , $39 , $44.99 , $225 ,Women's Apparel,Oct,10:00,Saturday,F
+23580,226, 145 , 95 , $33 , $44.99 , $189 ,Footwear,Oct,10:00,Monday,F
+11174,5, 95 , 95 , $37 , $49.99 , $107 ,Men's Apparel,Nov,17:00,Tuesday,F
+5009,320, 95 , 95 , $43 , $54.99 , $133 ,Women's Apparel,Nov,17:00,Tuesday,F
+21143,95, 95 , 95 , $42 , $54.99 , $124 ,Men's Apparel,Nov,17:00,Thursday,F
+14690,450, 114 , 95 , $41 , $54.99 , $145 ,Women's Apparel,Oct,10:00,Monday,D
+1773,250, 95 , 95 , $39 , $54.99 , $115 ,Footwear,Oct,10:00,Friday,D
+9994,270, 95 , 95 , $51 , $64.99 , $125 ,Footwear,Oct,10:00,Friday,F
+26834,735, 95 , 95 , $58 , $69.99 , $148 ,Women's Apparel,Nov,17:00,Monday,F
+26698,920, 95 , 95 , $56 , $69.99 , $136 ,Women's Apparel,Nov,10:00,Sunday,F
+20427,140, 95 , 95 , $56 , $74.99 , $144 ,Men's Apparel,Oct,10:00,Friday,F
+27678,535, 95 , 95 , $60 , $79.99 , $137 ,Women's Apparel,Nov,17:00,Wednesday,F
+22646,620, 95 , 95 , $63 , $84.99 , $148 ,Women's Apparel,Nov,17:00,Sunday,F
+5503,470, 95 , 95 , $61 , $84.99 , $169 ,Women's Apparel,Oct,10:00,Friday,F
+10535,485, 95 , 95 , $72 , $89.99 , $123 ,Women's Apparel,Nov,17:00,Monday,F
+13059,560, 95 , 95 , $71 , $89.99 , $174 ,Women's Apparel,Oct,10:00,Tuesday,F
+27003,116, 95 , 95 , $78 , $99.99 , $160 ,Men's Apparel,Oct,10:00,Friday,F
+26654,935, 95 , 95 , $86 , $104.99 , $183 ,Women's Apparel,Nov,10:00,Thursday,F
+23852,146, 95 , 95 , $80 , $104.99 , $237 ,Men's Apparel,Nov,17:00,Tuesday,F
+16288,755, 95 , 95 , $77 , $104.99 , $189 ,Women's Apparel,Nov,10:00,Monday,F
+24786,485, 95 , 95 , $77 , $104.99 , $183 ,Women's Apparel,Nov,17:00,Monday,F
+2423,731, 95 , 95 , $87 , $109.99 , $272 ,Women's Apparel,Nov,17:00,Tuesday,F
+20822,961, 95 , 95 , $85 , $109.99 , $278 ,Women's Apparel,Nov,17:00,Friday,F
+26589,846, 95 , 95 , $85 , $114.99 , $169 ,Women's Apparel,Nov,17:00,Monday,F
+5182,96, 95 , 95 , $101 , $129.99 , $226 ,Men's Apparel,Oct,10:00,Tuesday,F
+4305,816, 95 , 95 , $109 , $139.99 , $224 ,Women's Apparel,Nov,10:00,Saturday,F
+25687,681, 95 , 95 , $106 , $139.99 , $266 ,Women's Apparel,Oct,10:00,Thursday,F
+23817,497, 95 , 95 , $116 , $149.99 , $370 ,Women's Apparel,Oct,10:00,Thursday,F
+5436,652, 95 , 95 , $125 , $159.99 , $350 ,Women's Apparel,Oct,10:00,Monday,F
+5467,856, 95 , 95 , $134 , $179.99 , $270 ,Women's Apparel,Dec,10:00,Thursday,F
+1385,402, 95 , 95 , $145 , $184.99 , $385 ,Women's Apparel,Oct,10:00,Monday,F
+28307,302, 95 , 95 , $171 , $214.99 , $385 ,Footwear,Dec,10:00,Monday,F
+11980,332, 95 , 95 , $178 , $234.99 , $485 ,Women's Apparel,Dec,10:00,Sunday,F
+835,87, 95 , 95 , $178 , $234.99 , $325 ,Men's Apparel,Nov,17:00,Tuesday,F
+30164,572, 95 , 95 , $191 , $239.99 , $410 ,Women's Apparel,Dec,10:00,Friday,F
+10963,537, 95 , 95 , $178 , $239.99 , $540 ,Women's Apparel,Oct,10:00,Tuesday,F
+14144,423, 95 , 95 , $195 , $249.99 , $406 ,Women's Apparel,Dec,10:00,Friday,F
+13123,347, 95 , 95 , $206 , $259.99 , $390 ,Women's Apparel,Dec,17:00,Thursday,F
+11243,637, 95 , 95 , $203 , $269.99 , $560 ,Women's Apparel,Oct,10:00,Thursday,F
+14963,602, 95 , 95 , $214 , $274.99 , $495 ,Women's Apparel,Oct,10:00,Monday,F
+25021,618, 95 , 95 , $211 , $274.99 , $575 ,Women's Apparel,Dec,10:00,Friday,F
+20054,569, 95 , 95 , $227 , $294.99 , $475 ,Women's Apparel,Dec,17:00,Tuesday,F
+27610,679, 95 , 95 , $362 , $489.99 , $760 ,Women's Apparel,Dec,10:00,Thursday,F
+24356,453, 95 , 95 , $372 , $499.99 , $800 ,Women's Apparel,Dec,10:00,Thursday,F
+25871,190, 122 , 94 , $10 , $9.99 , $70 ,Men's Apparel,Oct,10:00,Tuesday,F
+23720,529, 116 , 94 , $10 , $9.99 , $31 ,Women's Apparel,Dec,10:00,Sunday,F
+27852,440, 122 , 94 , $10 , $9.99 , $40 ,Women's Apparel,Nov,17:00,Wednesday,F
+29935,825, 94 , 94 , $13 , $19.99 , $65 ,Women's Apparel,Nov,10:00,Friday,D
+7540,590, 94 , 94 , $24 , $29.99 , $102 ,Women's Apparel,Oct,10:00,Tuesday,F
+8610,586, 121 , 94 , $31 , $44.99 , $171 ,Women's Apparel,Nov,17:00,Wednesday,F
+18657,170, 94 , 94 , $46 , $59.99 , $123 ,Men's Apparel,Oct,10:00,Thursday,F
+13063,790, 94 , 94 , $46 , $59.99 , $132 ,Women's Apparel,Nov,10:00,Thursday,F
+25191,250, 94 , 94 , $61 , $79.99 , $125 ,Footwear,Oct,10:00,Friday,D
+25371,751, 124 , 94 , $60 , $79.99 , $230 ,Women's Apparel,Nov,10:00,Wednesday,F
+27709,204, 111 , 94 , $72 , $94.99 , $470 ,Men's Apparel,Oct,10:00,Tuesday,F
+21457,715, 94 , 94 , $86 , $114.99 , $187 ,Women's Apparel,Oct,10:00,Tuesday,F
+4378,515, 94 , 94 , $85 , $114.99 , $166 ,Women's Apparel,Oct,10:00,Tuesday,F
+2859,711, 94 , 94 , $92 , $119.99 , $198 ,Women's Apparel,Oct,10:00,Wednesday,F
+92,446, 94 , 94 , $95 , $124.99 , $263 ,Women's Apparel,Oct,10:00,Wednesday,F
+13286,491, 94 , 94 , $95 , $129.99 , $166 ,Women's Apparel,Dec,10:00,Friday,F
+3119,372, 103 , 94 , $105 , $134.99 , $435 ,Women's Apparel,Dec,10:00,Tuesday,F
+14237,647, 94 , 94 , $110 , $144.99 , $395 ,Women's Apparel,Oct,10:00,Sunday,F
+3374,426, 94 , 94 , $108 , $144.99 , $313 ,Women's Apparel,Dec,17:00,Friday,F
+15316,207, 94 , 94 , $120 , $149.99 , $430 ,Men's Apparel,Oct,10:00,Wednesday,F
+23187,96, 94 , 94 , $117 , $149.99 , $276 ,Men's Apparel,Oct,10:00,Tuesday,F
+24708,361, 94 , 94 , $117 , $149.99 , $312 ,Women's Apparel,Nov,17:00,Tuesday,F
+26583,959, 94 , 94 , $116 , $149.99 , $180 ,Women's Apparel,Dec,10:00,Monday,F
+20645,916, 94 , 94 , $122 , $159.99 , $244 ,Women's Apparel,Nov,10:00,Wednesday,F
+3951,446, 94 , 94 , $128 , $169.99 , $314 ,Women's Apparel,Oct,10:00,Wednesday,F
+26192,866, 94 , 94 , $155 , $194.99 , $339 ,Women's Apparel,Nov,10:00,Thursday,F
+3815,817, 94 , 94 , $157 , $209.99 , $300 ,Women's Apparel,Nov,10:00,Friday,F
+16725,787, 94 , 94 , $170 , $229.99 , $490 ,Women's Apparel,Nov,10:00,Thursday,F
+11066,373, 94 , 94 , $221 , $284.99 , $501 ,Women's Apparel,Dec,10:00,Wednesday,F
+15372,273, 94 , 94 , $279 , $364.99 , $575 ,Footwear,Nov,17:00,Wednesday,F
+27122,978, 94 , 94 , $309 , $389.99 , $654 ,Women's Apparel,Dec,10:00,Thursday,F
+25031,623, 94 , 94 , $358 , $459.99 , $820 ,Women's Apparel,Dec,10:00,Monday,F
+11123,903, 94 , 94 , $399 , $504.99 , $793 ,Women's Apparel,Dec,17:00,Tuesday,F
+26009,783, 94 , 94 , $405 , $509.99 , $690 ,Women's Apparel,Dec,17:00,Tuesday,F
+23036,943, 94 , 94 , $379 , $514.99 , $827 ,Women's Apparel,Dec,10:00,Thursday,F
+11045,533, 94 , 94 , $412 , $544.99 , $845 ,Women's Apparel,Dec,10:00,Thursday,F
+15839,469, 94 , 94 , $558 , $749.99 ," $1,020 ",Women's Apparel,Dec,17:00,Tuesday,F
+272,690, 110 , 93 , $10 , $9.99 , $85 ,Women's Apparel,Oct,10:00,Friday,F
+11579,505, 93 , 93 , $10 , $9.99 , $85 ,Women's Apparel,Oct,10:00,Friday,F
+29143,640, 99 , 93 , $10 , $9.99 , $82 ,Women's Apparel,Nov,17:00,Sunday,F
+11658,224, 93 , 93 , $8 , $9.99 , $34 ,Footwear,Oct,10:00,Sunday,F
+8045,279, 93 , 93 , $5 , $9.99 , $43 ,Footwear,Oct,10:00,Wednesday,F
+2430,390, 93 , 93 , $13 , $14.99 , $63 ,Women's Apparel,Nov,17:00,Thursday,F
+17326,565, 93 , 93 , $10 , $14.99 , $81 ,Women's Apparel,Oct,10:00,Friday,F
+14507,320, 97 , 93 , $26 , $29.99 , $117 ,Women's Apparel,Nov,17:00,Tuesday,F
+13223,147, 108 , 93 , $20 , $29.99 , $180 ,Men's Apparel,Oct,10:00,Tuesday,F
+3596,370, 93 , 93 , $33 , $39.99 , $106 ,Women's Apparel,Oct,10:00,Friday,F
+23993,500, 93 , 93 , $36 , $44.99 , $102 ,Women's Apparel,Oct,10:00,Tuesday,D
+24948,355, 93 , 93 , $32 , $44.99 , $78 ,Women's Apparel,Nov,17:00,Wednesday,F
+4764,615, 93 , 93 , $31 , $44.99 , $114 ,Women's Apparel,Oct,10:00,Friday,F
+10265,970, 93 , 93 , $30 , $44.99 , $120 ,Women's Apparel,Nov,10:00,Monday,F
+14494,160, 93 , 93 , $45 , $54.99 , $103 ,Men's Apparel,Nov,17:00,Wednesday,F
+20002,760, 93 , 93 , $54 , $69.99 , $139 ,Women's Apparel,Nov,17:00,Sunday,F
+19169,425, 93 , 93 , $59 , $74.99 , $114 ,Women's Apparel,Nov,17:00,Wednesday,D
+1976,616, 93 , 93 , $57 , $74.99 , $183 ,Women's Apparel,Oct,10:00,Wednesday,F
+4133,747, 147 , 93 , $67 , $84.99 , $385 ,Women's Apparel,Dec,10:00,Monday,F
+9171,245, 93 , 93 , $66 , $84.99 , $169 ,Footwear,Nov,17:00,Sunday,F
+21490,875, 93 , 93 , $66 , $89.99 , $129 ,Women's Apparel,Nov,10:00,Thursday,D
+25464,721, 93 , 93 , $78 , $99.99 , $238 ,Women's Apparel,Dec,17:00,Wednesday,F
+8750,146, 93 , 93 , $72 , $99.99 , $256 ,Men's Apparel,Nov,17:00,Tuesday,F
+24633,786, 93 , 93 , $85 , $109.99 , $194 ,Women's Apparel,Nov,10:00,Friday,F
+13529,676, 93 , 93 , $89 , $114.99 , $277 ,Women's Apparel,Nov,17:00,Sunday,F
+26351,961, 93 , 93 , $88 , $114.99 , $271 ,Women's Apparel,Nov,17:00,Friday,F
+20480,66, 93 , 93 , $91 , $124.99 , $299 ,Men's Apparel,Nov,17:00,Sunday,F
+1762,496, 93 , 93 , $100 , $134.99 , $267 ,Women's Apparel,Oct,10:00,Tuesday,F
+4863,541, 93 , 93 , $108 , $139.99 , $242 ,Women's Apparel,Oct,10:00,Sunday,F
+13845,67, 93 , 93 , $125 , $154.99 , $435 ,Men's Apparel,Oct,10:00,Saturday,F
+8722,407, 93 , 93 , $122 , $159.99 , $370 ,Women's Apparel,Oct,10:00,Monday,F
+2471,542, 93 , 93 , $126 , $164.99 , $305 ,Women's Apparel,Dec,17:00,Wednesday,F
+6953,637, 93 , 93 , $135 , $179.99 , $480 ,Women's Apparel,Oct,10:00,Thursday,F
+22850,447, 93 , 93 , $184 , $239.99 , $370 ,Women's Apparel,Oct,10:00,Monday,F
+8806,902, 93 , 93 , $231 , $304.99 , $605 ,Women's Apparel,Dec,17:00,Wednesday,F
+25733,634, 93 , 93 , $257 , $324.99 , $625 ,Women's Apparel,Dec,10:00,Thursday,F
+1216,923, 93 , 93 , $260 , $344.99 , $501 ,Women's Apparel,Dec,10:00,Saturday,F
+10786,158, 93 , 93 , $258 , $349.99 , $590 ,Men's Apparel,Dec,10:00,Monday,F
+21119,433, 93 , 93 , $273 , $364.99 , $701 ,Women's Apparel,Dec,17:00,Thursday,F
+27797,323, 93 , 93 , $311 , $414.99 , $703 ,Women's Apparel,Dec,10:00,Sunday,F
+22149,248, 93 , 93 , $313 , $419.99 , $610 ,Footwear,Dec,10:00,Monday,F
+7747,513, 93 , 93 , $332 , $424.99 , $713 ,Women's Apparel,Dec,17:00,Tuesday,F
+8936,209, 101 , 92 , $10 , $9.99 , $44 ,Footwear,Oct,10:00,Wednesday,F
+25719,80, 92 , 92 , $10 , $9.99 , $70 ,Men's Apparel,Oct,10:00,Monday,F
+16238,259, 92 , 92 , $9 , $9.99 , $27 ,Footwear,Oct,10:00,Tuesday,F
+8775,219, 92 , 92 , $9 , $9.99 , $70 ,Footwear,Oct,10:00,Wednesday,F
+10666,254, 92 , 92 , $8 , $9.99 , $30 ,Footwear,Oct,10:00,Saturday,F
+20555,269, 98 , 92 , $10 , $14.99 , $41 ,Footwear,Nov,17:00,Thursday,F
+16813,795, 149 , 92 , $10 , $14.99 , $96 ,Women's Apparel,Nov,17:00,Monday,F
+16870,434, 92 , 92 , $10 , $14.99 , $36 ,Women's Apparel,Dec,17:00,Friday,F
+3517,285, 111 , 92 , $13 , $19.99 , $80 ,Footwear,Nov,17:00,Tuesday,F
+23820,239, 92 , 92 , $5 , $19.99 , $50 ,Footwear,Oct,10:00,Friday,F
+23053,500, 92 , 92 , $15 , $24.99 , $97 ,Women's Apparel,Oct,10:00,Tuesday,D
+7737,870, 95 , 92 , $25 , $29.99 , $111 ,Women's Apparel,Nov,10:00,Wednesday,F
+22866,165, 119 , 92 , $24 , $29.99 , $90 ,Men's Apparel,Oct,10:00,Monday,F
+8876,765, 92 , 92 , $27 , $39.99 , $76 ,Women's Apparel,Nov,10:00,Friday,F
+13564,785, 92 , 92 , $35 , $44.99 , $114 ,Women's Apparel,Nov,10:00,Monday,F
+11253,255, 92 , 92 , $39 , $49.99 , $92 ,Footwear,Oct,10:00,Wednesday,F
+7990,715, 92 , 92 , $45 , $59.99 , $99 ,Women's Apparel,Oct,10:00,Tuesday,F
+28621,810, 92 , 92 , $48 , $64.99 , $122 ,Women's Apparel,Nov,10:00,Wednesday,F
+14920,281, 92 , 92 , $64 , $84.99 , $145 ,Footwear,Oct,10:00,Sunday,F
+5784,410, 92 , 92 , $77 , $94.99 , $143 ,Women's Apparel,Nov,17:00,Wednesday,F
+5308,516, 92 , 92 , $80 , $109.99 , $194 ,Women's Apparel,Oct,10:00,Saturday,F
+441,521, 92 , 92 , $89 , $119.99 , $222 ,Women's Apparel,Dec,17:00,Wednesday,F
+23133,746, 92 , 92 , $100 , $124.99 , $203 ,Women's Apparel,Nov,10:00,Sunday,F
+4233,211, 92 , 92 , $106 , $134.99 , $273 ,Footwear,Nov,17:00,Tuesday,F
+4341,911, 92 , 92 , $117 , $149.99 , $276 ,Women's Apparel,Dec,17:00,Monday,F
+26787,852, 92 , 92 , $122 , $159.99 , $460 ,Women's Apparel,Nov,10:00,Monday,F
+16389,331, 92 , 92 , $118 , $159.99 , $310 ,Women's Apparel,Nov,17:00,Monday,F
+27405,486, 92 , 92 , $124 , $169.99 , $296 ,Women's Apparel,Oct,10:00,Wednesday,F
+19096,378, 92 , 92 , $141 , $184.99 , $377 ,Women's Apparel,Dec,10:00,Saturday,F
+2798,931, 92 , 92 , $153 , $194.99 , $279 ,Women's Apparel,Dec,10:00,Thursday,F
+29679,573, 113 , 92 , $187 , $239.99 , $588 ,Women's Apparel,Dec,17:00,Friday,F
+26305,757, 92 , 92 , $212 , $274.99 , $525 ,Women's Apparel,Nov,10:00,Monday,F
+26139,352, 92 , 92 , $211 , $274.99 , $575 ,Women's Apparel,Nov,17:00,Wednesday,F
+13056,702, 92 , 92 , $208 , $274.99 , $515 ,Women's Apparel,Nov,17:00,Monday,F
+30307,602, 92 , 92 , $232 , $299.99 , $580 ,Women's Apparel,Oct,10:00,Monday,F
+7299,718, 92 , 92 , $238 , $309.99 , $514 ,Women's Apparel,Dec,17:00,Friday,F
+202,867, 92 , 92 , $241 , $319.99 , $520 ,Women's Apparel,Dec,17:00,Friday,F
+7905,373, 92 , 92 , $250 , $329.99 , $570 ,Women's Apparel,Dec,10:00,Wednesday,F
+11262,858, 92 , 92 , $308 , $389.99 , $630 ,Women's Apparel,Dec,17:00,Monday,F
+17482,929, 92 , 92 , $331 , $414.99 , $760 ,Women's Apparel,Dec,10:00,Tuesday,F
+21519,578, 92 , 92 , $372 , $479.99 , $672 ,Women's Apparel,Dec,10:00,Thursday,F
+4931,454, 92 , 92 , $399 , $514.99 , $920 ,Women's Apparel,Nov,17:00,Sunday,F
+17460,833, 92 , 92 , $393 , $519.99 , $688 ,Women's Apparel,Dec,10:00,Sunday,F
+8655,218, 92 , 92 , $432 , $564.99 , $795 ,Footwear,Dec,10:00,Tuesday,F
+4499,514, 92 , 92 , $479 , $619.99 , $755 ,Women's Apparel,Dec,17:00,Monday,F
+25783,304, 126 , 91 , $7 , $9.99 , $29 ,Footwear,Oct,10:00,Thursday,F
+18308,209, 91 , 91 , $6 , $9.99 , $38 ,Footwear,Oct,10:00,Wednesday,F
+10586,224, 99 , 91 , $10 , $9.99 , $46 ,Footwear,Oct,10:00,Sunday,F
+746,180, 99 , 91 , $10 , $14.99 , $63 ,Men's Apparel,Oct,10:00,Tuesday,F
+556,274, 116 , 91 , $12 , $19.99 , $92 ,Footwear,Nov,17:00,Thursday,F
+13188,190, 111 , 91 , $26 , $34.99 , $89 ,Men's Apparel,Oct,10:00,Tuesday,F
+621,795, 91 , 91 , $23 , $34.99 , $107 ,Women's Apparel,Nov,17:00,Monday,F
+20814,70, 91 , 91 , $27 , $39.99 , $76 ,Men's Apparel,Nov,17:00,Thursday,F
+13331,355, 91 , 91 , $34 , $44.99 , $84 ,Women's Apparel,Nov,17:00,Wednesday,F
+12592,666, 91 , 91 , $42 , $54.99 , $79 ,Women's Apparel,Dec,10:00,Wednesday,F
+17033,875, 91 , 91 , $75 , $94.99 , $185 ,Women's Apparel,Nov,10:00,Thursday,D
+17206,256, 91 , 91 , $88 , $109.99 , $212 ,Footwear,Nov,17:00,Saturday,F
+19606,941, 91 , 91 , $88 , $109.99 , $176 ,Women's Apparel,Nov,17:00,Wednesday,F
+27769,241, 91 , 91 , $91 , $114.99 , $235 ,Footwear,Nov,17:00,Saturday,F
+901,752, 91 , 91 , $99 , $124.99 , $165 ,Women's Apparel,Dec,10:00,Tuesday,F
+3579,516, 91 , 91 , $111 , $134.99 , $225 ,Women's Apparel,Oct,10:00,Saturday,F
+11244,296, 91 , 91 , $118 , $149.99 , $198 ,Footwear,Oct,10:00,Saturday,F
+22512,468, 94 , 91 , $116 , $149.99 , $390 ,Women's Apparel,Dec,10:00,Friday,F
+19486,757, 91 , 91 , $114 , $149.99 , $310 ,Women's Apparel,Nov,10:00,Monday,F
+18904,92, 91 , 91 , $141 , $179.99 , $330 ,Men's Apparel,Oct,10:00,Monday,F
+24830,997, 91 , 91 , $157 , $194.99 , $405 ,Women's Apparel,Nov,10:00,Friday,F
+2536,747, 91 , 91 , $181 , $229.99 , $520 ,Women's Apparel,Dec,10:00,Monday,F
+29239,987, 91 , 91 , $194 , $249.99 , $370 ,Women's Apparel,Nov,10:00,Monday,F
+2683,713, 91 , 91 , $207 , $259.99 , $572 ,Women's Apparel,Dec,17:00,Sunday,F
+18848,158, 91 , 91 , $219 , $284.99 , $513 ,Men's Apparel,Dec,10:00,Monday,F
+4099,272, 91 , 91 , $238 , $294.99 , $595 ,Footwear,Dec,17:00,Monday,F
+24304,392, 91 , 91 , $234 , $294.99 , $585 ,Women's Apparel,Dec,10:00,Monday,F
+24143,109, 91 , 91 , $233 , $304.99 , $680 ,Men's Apparel,Oct,10:00,Thursday,F
+23830,223, 91 , 91 , $237 , $309.99 , $600 ,Footwear,Dec,10:00,Monday,F
+25739,523, 91 , 91 , $295 , $389.99 , $666 ,Women's Apparel,Dec,10:00,Wednesday,F
+2488,949, 91 , 91 , $308 , $399.99 , $685 ,Women's Apparel,Nov,10:00,Tuesday,F
+13935,208, 91 , 91 , $300 , $399.99 , $592 ,Men's Apparel,Dec,17:00,Tuesday,F
+20972,964, 91 , 91 , $450 , $569.99 , $975 ,Women's Apparel,Dec,10:00,Wednesday,F
+13800,754, 91 , 91 , $461 , $584.99 , $825 ,Women's Apparel,Nov,10:00,Monday,F
+1770,983, 91 , 91 , $471 , $589.99 , $902 ,Women's Apparel,Dec,17:00,Wednesday,F
+11538,684, 91 , 91 , $489 , $639.99 , $865 ,Women's Apparel,Dec,17:00,Tuesday,F
+29655,799, 91 , 91 , $567 , $719.99 ," $1,140 ",Women's Apparel,Nov,17:00,Friday,F
+3724,609, 91 , 91 , $641 , $819.99 ," $1,030 ",Women's Apparel,Dec,10:00,Wednesday,F
+22571,244, 90 , 90 , $5 , $9.99 , $37 ,Footwear,Nov,17:00,Monday,F
+4847,209, 90 , 90 , $10 , $9.99 , $43 ,Footwear,Oct,10:00,Wednesday,F
+21829,170, 113 , 90 , $10 , $9.99 , $70 ,Men's Apparel,Oct,10:00,Thursday,F
+8668,309, 114 , 90 , $8 , $9.99 , $40 ,Footwear,Oct,10:00,Friday,F
+6405,284, 116 , 90 , $6 , $9.99 , $58 ,Footwear,Oct,10:00,Monday,F
+17860,249, 90 , 90 , $6 , $9.99 , $41 ,Footwear,Oct,10:00,Thursday,F
+23447,269, 106 , 90 , $6 , $9.99 , $32 ,Footwear,Nov,17:00,Thursday,F
+11315,900, 95 , 90 , $10 , $14.99 , $87 ,Women's Apparel,Nov,10:00,Tuesday,D
+20461,250, 90 , 90 , $25 , $29.99 , $84 ,Footwear,Oct,10:00,Friday,D
+26094,820, 90 , 90 , $28 , $34.99 , $92 ,Women's Apparel,Nov,10:00,Saturday,F
+29298,280, 90 , 90 , $28 , $34.99 , $125 ,Footwear,Nov,17:00,Tuesday,F
+22061,230, 90 , 90 , $36 , $49.99 , $128 ,Footwear,Oct,10:00,Monday,F
+19128,140, 90 , 90 , $44 , $54.99 , $139 ,Men's Apparel,Oct,10:00,Friday,F
+15543,690, 90 , 90 , $42 , $54.99 , $100 ,Women's Apparel,Oct,10:00,Friday,F
+29435,980, 90 , 90 , $40 , $54.99 , $91 ,Women's Apparel,Nov,10:00,Friday,F
+21228,390, 90 , 90 , $54 , $69.99 , $160 ,Women's Apparel,Nov,17:00,Thursday,F
+2510,486, 90 , 90 , $64 , $79.99 , $206 ,Women's Apparel,Oct,10:00,Wednesday,F
+1765,116, 90 , 90 , $60 , $79.99 , $104 ,Men's Apparel,Oct,10:00,Friday,F
+26281,462, 99 , 90 , $59 , $79.99 , $290 ,Women's Apparel,Nov,17:00,Thursday,F
+429,367, 90 , 90 , $68 , $89.99 , $310 ,Women's Apparel,Nov,17:00,Thursday,F
+27222,951, 90 , 90 , $67 , $89.99 , $270 ,Women's Apparel,Nov,10:00,Monday,F
+12,846, 90 , 90 , $66 , $89.99 , $150 ,Women's Apparel,Nov,17:00,Monday,F
+29588,396, 90 , 90 , $86 , $109.99 , $290 ,Women's Apparel,Dec,10:00,Wednesday,F
+14044,241, 90 , 90 , $88 , $114.99 , $241 ,Footwear,Nov,17:00,Saturday,F
+14924,721, 90 , 90 , $83 , $114.99 , $181 ,Women's Apparel,Dec,17:00,Wednesday,F
+14110,616, 90 , 90 , $105 , $134.99 , $213 ,Women's Apparel,Oct,10:00,Wednesday,F
+5510,816, 90 , 90 , $101 , $134.99 , $279 ,Women's Apparel,Nov,10:00,Saturday,F
+9888,228, 90 , 90 , $108 , $139.99 , $440 ,Footwear,Dec,17:00,Monday,F
+12701,396, 90 , 90 , $100 , $139.99 , $260 ,Women's Apparel,Dec,10:00,Wednesday,F
+17104,826, 90 , 90 , $131 , $159.99 , $334 ,Women's Apparel,Nov,17:00,Monday,F
+9391,296, 90 , 90 , $123 , $159.99 , $334 ,Footwear,Oct,10:00,Saturday,F
+18931,188, 90 , 90 , $130 , $179.99 , $444 ,Men's Apparel,Dec,10:00,Wednesday,F
+16758,387, 90 , 90 , $169 , $219.99 , $350 ,Women's Apparel,Oct,10:00,Saturday,F
+24900,457, 90 , 90 , $195 , $254.99 , $525 ,Women's Apparel,Dec,10:00,Monday,F
+16367,18, 90 , 90 , $244 , $314.99 , $543 ,Men's Apparel,Dec,17:00,Friday,F
+1544,908, 90 , 90 , $285 , $369.99 , $586 ,Women's Apparel,Dec,10:00,Wednesday,F
+26838,574, 90 , 90 , $314 , $419.99 , $555 ,Women's Apparel,Dec,10:00,Thursday,F
+3514,843, 90 , 90 , $345 , $449.99 , $726 ,Women's Apparel,Dec,17:00,Saturday,F
+23077,449, 90 , 90 , $386 , $494.99 , $705 ,Women's Apparel,Oct,10:00,Monday,F
+25332,394, 90 , 90 , $469 , $604.99 , $830 ,Women's Apparel,Dec,10:00,Sunday,F
+17650,298, 90 , 90 , $462 , $619.99 , $920 ,Footwear,Oct,10:00,Friday,F
+23850,669, 90 , 90 , $550 , $689.99 ," $1,005 ",Women's Apparel,Dec,10:00,Friday,F
+27495,705, 95 , 89 , $10 , $9.99 , $64 ,Women's Apparel,Nov,17:00,Wednesday,F
+10328,214, 107 , 89 , $5 , $9.99 , $26 ,Footwear,Oct,10:00,Monday,F
+25197,380, 106 , 89 , $10 , $14.99 , $63 ,Women's Apparel,Oct,10:00,Monday,F
+21471,575, 89 , 89 , $10 , $14.99 , $84 ,Women's Apparel,Oct,10:00,Friday,D
+148,605, 123 , 89 , $10 , $14.99 , $78 ,Women's Apparel,Nov,17:00,Friday,F
+5894,730, 111 , 89 , $10 , $14.99 , $57 ,Women's Apparel,Nov,17:00,Tuesday,F
+24373,214, 94 , 89 , $8 , $14.99 , $48 ,Footwear,Oct,10:00,Monday,F
+1412,270, 98 , 89 , $19 , $19.99 , $110 ,Footwear,Oct,10:00,Friday,F
+675,480, 89 , 89 , $14 , $19.99 , $68 ,Women's Apparel,Nov,17:00,Friday,F
+7531,655, 89 , 89 , $18 , $24.99 , $91 ,Women's Apparel,Oct,10:00,Sunday,F
+5456,906, 89 , 89 , $26 , $29.99 , $42 ,Women's Apparel,Nov,17:00,Wednesday,F
+12245,890, 100 , 89 , $22 , $29.99 , $120 ,Women's Apparel,Nov,10:00,Wednesday,F
+26681,645, 89 , 89 , $31 , $34.99 , $77 ,Women's Apparel,Nov,17:00,Wednesday,F
+9764,301, 89 , 89 , $30 , $34.99 , $143 ,Footwear,Oct,10:00,Thursday,F
+273,335, 109 , 89 , $32 , $39.99 , $106 ,Women's Apparel,Oct,10:00,Tuesday,F
+15272,65, 108 , 89 , $31 , $39.99 , $121 ,Men's Apparel,Nov,17:00,Tuesday,F
+20690,967, 89 , 89 , $39 , $49.99 , $280 ,Women's Apparel,Nov,10:00,Thursday,F
+2434,591, 89 , 89 , $48 , $59.99 , $162 ,Women's Apparel,Oct,10:00,Friday,F
+19975,330, 89 , 89 , $51 , $64.99 , $107 ,Women's Apparel,Nov,17:00,Monday,F
+3043,765, 89 , 89 , $50 , $64.99 , $113 ,Women's Apparel,Nov,10:00,Friday,F
+8282,500, 89 , 89 , $58 , $69.99 , $109 ,Women's Apparel,Oct,10:00,Tuesday,D
+4531,325, 89 , 89 , $49 , $69.99 , $115 ,Women's Apparel,Oct,10:00,Tuesday,D
+25022,855, 89 , 89 , $60 , $74.99 , $147 ,Women's Apparel,Nov,17:00,Monday,F
+26843,775, 89 , 89 , $58 , $74.99 , $105 ,Women's Apparel,Nov,10:00,Thursday,D
+6888,970, 89 , 89 , $63 , $79.99 , $164 ,Women's Apparel,Nov,10:00,Monday,F
+19520,790, 89 , 89 , $62 , $79.99 , $167 ,Women's Apparel,Nov,10:00,Thursday,F
+13520,540, 89 , 89 , $62 , $79.99 , $152 ,Women's Apparel,Oct,10:00,Thursday,F
+9978,630, 89 , 89 , $61 , $79.99 , $158 ,Women's Apparel,Oct,10:00,Thursday,F
+6263,665, 89 , 89 , $61 , $84.99 , $157 ,Women's Apparel,Oct,10:00,Thursday,F
+9052,469, 98 , 89 , $76 , $94.99 , $530 ,Women's Apparel,Dec,17:00,Tuesday,F
+4666,896, 89 , 89 , $81 , $109.99 , $200 ,Women's Apparel,Nov,10:00,Tuesday,F
+1986,241, 89 , 89 , $89 , $119.99 , $246 ,Footwear,Nov,17:00,Saturday,F
+3525,521, 89 , 89 , $108 , $139.99 , $284 ,Women's Apparel,Dec,17:00,Wednesday,F
+18430,257, 89 , 89 , $108 , $144.99 , $355 ,Footwear,Nov,17:00,Wednesday,F
+15974,426, 89 , 89 , $115 , $149.99 , $246 ,Women's Apparel,Dec,17:00,Friday,F
+17840,597, 89 , 89 , $121 , $154.99 , $275 ,Women's Apparel,Dec,17:00,Sunday,F
+9046,421, 89 , 89 , $128 , $164.99 , $243 ,Women's Apparel,Oct,10:00,Friday,F
+12984,22, 89 , 89 , $136 , $169.99 , $210 ,Men's Apparel,Dec,10:00,Friday,F
+26904,277, 89 , 89 , $142 , $189.99 , $430 ,Footwear,Nov,17:00,Sunday,F
+17066,62, 89 , 89 , $156 , $199.99 , $450 ,Men's Apparel,Dec,10:00,Tuesday,F
+29617,159, 89 , 89 , $162 , $219.99 , $580 ,Men's Apparel,Dec,10:00,Wednesday,F
+18901,577, 89 , 89 , $168 , $224.99 , $355 ,Women's Apparel,Nov,17:00,Monday,F
+16447,128, 89 , 89 , $176 , $229.99 , $530 ,Men's Apparel,Dec,10:00,Tuesday,F
+29695,197, 89 , 89 , $194 , $244.99 , $515 ,Men's Apparel,Oct,10:00,Friday,F
+25702,837, 89 , 89 , $227 , $284.99 , $565 ,Women's Apparel,Dec,10:00,Tuesday,F
+15629,452, 89 , 89 , $220 , $289.99 , $380 ,Women's Apparel,Oct,10:00,Thursday,F
+24151,204, 89 , 89 , $224 , $299.99 , $525 ,Men's Apparel,Oct,10:00,Tuesday,F
+17413,694, 89 , 89 , $239 , $304.99 , $755 ,Women's Apparel,Dec,17:00,Tuesday,F
+28274,529, 89 , 89 , $232 , $309.99 , $580 ,Women's Apparel,Dec,10:00,Sunday,F
+489,173, 89 , 89 , $244 , $314.99 , $627 ,Men's Apparel,Dec,17:00,Wednesday,F
+25466,924, 89 , 89 , $283 , $379.99 , $770 ,Women's Apparel,Dec,10:00,Thursday,F
+3188,34, 89 , 89 , $288 , $389.99 , $510 ,Men's Apparel,Oct,10:00,Tuesday,F
+21640,628, 89 , 89 , $374 , $484.99 , $701 ,Women's Apparel,Dec,17:00,Monday,F
+25609,123, 89 , 89 , $405 , $504.99 , $793 ,Men's Apparel,Dec,10:00,Friday,F
+15289,759, 89 , 89 , $461 , $609.99 , $955 ,Women's Apparel,Dec,10:00,Thursday,F
+7978,914, 89 , 89 , $499 , $639.99 , $925 ,Women's Apparel,Dec,17:00,Thursday,F
+14065,684, 89 , 89 , $555 , $724.99 ," $1,100 ",Women's Apparel,Dec,17:00,Tuesday,F
+12780,169, 89 , 89 , $582 , $764.99 ," $1,029 ",Men's Apparel,Oct,10:00,Monday,F
+881,304, 88 , 88 , $5 , $9.99 , $39 ,Footwear,Oct,10:00,Thursday,F
+2673,299, 106 , 88 , $5 , $9.99 , $35 ,Footwear,Nov,17:00,Monday,F
+26718,745, 131 , 88 , $15 , $19.99 , $53 ,Women's Apparel,Oct,10:00,Tuesday,F
+21544,585, 89 , 88 , $31 , $34.99 , $119 ,Women's Apparel,Oct,10:00,Saturday,F
+11795,885, 88 , 88 , $25 , $34.99 , $110 ,Women's Apparel,Nov,10:00,Thursday,F
+3594,35, 116 , 88 , $24 , $34.99 , $98 ,Men's Apparel,Nov,17:00,Monday,F
+23016,782, 108 , 88 , $34 , $39.99 , $140 ,Women's Apparel,Dec,10:00,Thursday,F
+1358,668, 96 , 88 , $34 , $39.99 , $256 ,Women's Apparel,Dec,10:00,Thursday,F
+3364,830, 88 , 88 , $39 , $49.99 , $122 ,Women's Apparel,Nov,17:00,Wednesday,F
+17254,215, 88 , 88 , $45 , $59.99 , $96 ,Footwear,Oct,10:00,Wednesday,F
+12605,130, 88 , 88 , $43 , $59.99 , $144 ,Men's Apparel,Nov,17:00,Friday,F
+4543,390, 88 , 88 , $58 , $69.99 , $127 ,Women's Apparel,Nov,17:00,Thursday,F
+21357,360, 88 , 88 , $50 , $69.99 , $133 ,Women's Apparel,Oct,10:00,Tuesday,F
+8599,572, 113 , 88 , $56 , $74.99 , $205 ,Women's Apparel,Dec,10:00,Friday,F
+25493,910, 88 , 88 , $64 , $79.99 , $122 ,Women's Apparel,Nov,17:00,Monday,F
+1601,441, 114 , 88 , $63 , $79.99 , $218 ,Women's Apparel,Nov,17:00,Friday,F
+22809,360, 88 , 88 , $62 , $79.99 , $134 ,Women's Apparel,Oct,10:00,Tuesday,F
+28652,658, 88 , 88 , $65 , $84.99 , $385 ,Women's Apparel,Oct,10:00,Monday,F
+26581,821, 88 , 88 , $74 , $94.99 , $155 ,Women's Apparel,Dec,10:00,Monday,F
+14499,281, 88 , 88 , $94 , $114.99 , $235 ,Footwear,Oct,10:00,Sunday,F
+7872,732, 99 , 88 , $88 , $114.99 , $355 ,Women's Apparel,Dec,10:00,Friday,F
+14926,61, 88 , 88 , $88 , $114.99 , $283 ,Men's Apparel,Nov,17:00,Saturday,F
+26921,463, 138 , 88 , $92 , $119.99 , $348 ,Women's Apparel,Dec,17:00,Saturday,F
+24703,126, 88 , 88 , $107 , $134.99 , $261 ,Men's Apparel,Nov,17:00,Tuesday,F
+11165,796, 88 , 88 , $105 , $134.99 , $279 ,Women's Apparel,Dec,10:00,Saturday,F
+13559,971, 88 , 88 , $99 , $134.99 , $309 ,Women's Apparel,Nov,10:00,Thursday,F
+8228,366, 88 , 88 , $107 , $139.99 , $272 ,Women's Apparel,Nov,17:00,Sunday,F
+22952,911, 88 , 88 , $102 , $139.99 , $302 ,Women's Apparel,Dec,17:00,Monday,F
+17477,117, 88 , 88 , $123 , $159.99 , $400 ,Men's Apparel,Oct,10:00,Wednesday,F
+24838,842, 88 , 88 , $127 , $174.99 , $455 ,Women's Apparel,Nov,10:00,Thursday,F
+11239,981, 88 , 88 , $138 , $179.99 , $324 ,Women's Apparel,Dec,10:00,Monday,F
+333,273, 88 , 88 , $150 , $184.99 , $405 ,Footwear,Nov,17:00,Wednesday,F
+4789,416, 88 , 88 , $147 , $184.99 , $365 ,Women's Apparel,Dec,17:00,Wednesday,F
+10068,92, 88 , 88 , $146 , $184.99 , $365 ,Men's Apparel,Oct,10:00,Monday,F
+9702,771, 88 , 88 , $140 , $184.99 , $209 ,Women's Apparel,Dec,10:00,Thursday,F
+22750,272, 88 , 88 , $147 , $189.99 , $470 ,Footwear,Dec,17:00,Monday,F
+24418,973, 88 , 88 , $159 , $199.99 , $368 ,Women's Apparel,Dec,10:00,Tuesday,F
+11945,877, 88 , 88 , $181 , $229.99 , $340 ,Women's Apparel,Nov,17:00,Tuesday,F
+25319,817, 88 , 88 , $188 , $244.99 , $425 ,Women's Apparel,Nov,10:00,Friday,F
+27497,753, 88 , 88 , $220 , $289.99 , $362 ,Women's Apparel,Dec,10:00,Tuesday,F
+9543,483, 88 , 88 , $227 , $294.99 , $415 ,Women's Apparel,Dec,10:00,Wednesday,F
+4346,692, 88 , 88 , $223 , $299.99 , $490 ,Women's Apparel,Nov,17:00,Wednesday,F
+30220,768, 88 , 88 , $251 , $319.99 , $392 ,Women's Apparel,Dec,10:00,Wednesday,F
+9770,398, 88 , 88 , $241 , $324.99 , $613 ,Women's Apparel,Dec,10:00,Wednesday,F
+23368,23, 88 , 88 , $273 , $349.99 , $530 ,Men's Apparel,Dec,10:00,Tuesday,F
+15593,118, 88 , 88 , $284 , $354.99 , $559 ,Men's Apparel,Dec,10:00,Thursday,F
+4393,133, 88 , 88 , $282 , $354.99 , $667 ,Men's Apparel,Dec,17:00,Thursday,F
+18106,178, 88 , 88 , $278 , $359.99 , $564 ,Men's Apparel,Dec,10:00,Friday,F
+5271,879, 88 , 88 , $280 , $369.99 , $565 ,Women's Apparel,Nov,10:00,Monday,F
+12379,263, 88 , 88 , $294 , $389.99 , $500 ,Footwear,Dec,10:00,Thursday,F
+4391,543, 88 , 88 , $311 , $404.99 , $657 ,Women's Apparel,Dec,17:00,Thursday,F
+12710,979, 88 , 88 , $374 , $469.99 , $890 ,Women's Apparel,Dec,10:00,Thursday,F
+19296,834, 88 , 88 , $402 , $519.99 , $820 ,Women's Apparel,Nov,10:00,Saturday,F
+15336,498, 88 , 88 , $388 , $519.99 , $832 ,Women's Apparel,Oct,10:00,Thursday,F
+11762,429, 88 , 88 , $397 , $539.99 , $735 ,Women's Apparel,Dec,10:00,Tuesday,F
+11923,449, 88 , 88 , $456 , $609.99 , $925 ,Women's Apparel,Oct,10:00,Monday,F
+331,644, 88 , 88 , $499 , $624.99 , $880 ,Women's Apparel,Dec,10:00,Thursday,F
+16163,984, 88 , 88 , $535 , $689.99 ," $1,065 ",Women's Apparel,Dec,10:00,Monday,F
+7125,954, 88 , 88 , $554 , $694.99 , $920 ,Women's Apparel,Dec,17:00,Friday,F
+3718,458, 88 , 88 , $524 , $704.99 ," $1,017 ",Women's Apparel,Dec,17:00,Thursday,F
+9991,229, 102 , 87 , $5 , $9.99 , $47 ,Footwear,Nov,17:00,Monday,F
+3939,309, 100 , 87 , $10 , $9.99 , $34 ,Footwear,Oct,10:00,Friday,F
+5761,390, 89 , 87 , $10 , $9.99 , $85 ,Women's Apparel,Nov,17:00,Thursday,F
+19063,274, 110 , 87 , $9 , $9.99 , $44 ,Footwear,Nov,17:00,Thursday,F
+17232,294, 103 , 87 , $7 , $9.99 , $39 ,Footwear,Oct,10:00,Monday,F
+10139,249, 119 , 87 , $6 , $9.99 , $44 ,Footwear,Oct,10:00,Thursday,F
+1433,229, 87 , 87 , $5 , $9.99 , $37 ,Footwear,Nov,17:00,Monday,F
+19661,15, 120 , 87 , $16 , $19.99 , $89 ,Men's Apparel,Oct,10:00,Wednesday,F
+6753,430, 100 , 87 , $19 , $24.99 , $73 ,Women's Apparel,Oct,10:00,Sunday,F
+27615,840, 110 , 87 , $24 , $29.99 , $105 ,Women's Apparel,Nov,10:00,Monday,F
+776,885, 89 , 87 , $21 , $29.99 , $93 ,Women's Apparel,Nov,10:00,Thursday,F
+28221,920, 92 , 87 , $30 , $34.99 , $110 ,Women's Apparel,Nov,10:00,Sunday,F
+16941,115, 87 , 87 , $29 , $39.99 , $115 ,Men's Apparel,Oct,10:00,Saturday,F
+16859,760, 87 , 87 , $33 , $44.99 , $90 ,Women's Apparel,Nov,17:00,Sunday,F
+15041,114, 87 , 87 , $51 , $69.99 , $220 ,Men's Apparel,Nov,17:00,Tuesday,F
+22307,195, 87 , 87 , $57 , $74.99 , $105 ,Men's Apparel,Oct,10:00,Wednesday,F
+2682,40, 87 , 87 , $70 , $84.99 , $136 ,Men's Apparel,Oct,10:00,Thursday,F
+11565,780, 87 , 87 , $69 , $84.99 , $121 ,Women's Apparel,Nov,10:00,Monday,F
+15761,550, 87 , 87 , $65 , $84.99 , $166 ,Women's Apparel,Nov,17:00,Monday,D
+29550,795, 87 , 87 , $64 , $84.99 , $133 ,Women's Apparel,Nov,17:00,Monday,F
+10,461, 87 , 87 , $94 , $119.99 , $288 ,Women's Apparel,Nov,17:00,Thursday,F
+11595,680, 87 , 87 , $93 , $119.99 , $168 ,Women's Apparel,Oct,10:00,Sunday,F
+15468,546, 87 , 87 , $91 , $119.99 , $288 ,Women's Apparel,Oct,10:00,Friday,F
+13877,436, 87 , 87 , $98 , $129.99 , $286 ,Women's Apparel,Oct,10:00,Friday,F
+25401,571, 87 , 87 , $97 , $129.99 , $172 ,Women's Apparel,Dec,10:00,Friday,F
+7177,307, 108 , 87 , $107 , $134.99 , $425 ,Footwear,Oct,10:00,Monday,F
+8533,511, 87 , 87 , $121 , $154.99 , $251 ,Women's Apparel,Nov,17:00,Tuesday,F
+8654,711, 87 , 87 , $134 , $174.99 , $223 ,Women's Apparel,Oct,10:00,Wednesday,F
+27753,652, 87 , 87 , $148 , $189.99 , $310 ,Women's Apparel,Oct,10:00,Monday,F
+29864,617, 87 , 87 , $158 , $199.99 , $430 ,Women's Apparel,Oct,10:00,Tuesday,F
+4238,242, 87 , 87 , $155 , $199.99 , $430 ,Footwear,Dec,17:00,Monday,F
+20437,826, 87 , 87 , $161 , $204.99 , $289 ,Women's Apparel,Nov,17:00,Monday,F
+17964,727, 87 , 87 , $156 , $209.99 , $430 ,Women's Apparel,Oct,10:00,Saturday,F
+15935,607, 87 , 87 , $172 , $229.99 , $370 ,Women's Apparel,Nov,17:00,Wednesday,F
+12627,367, 87 , 87 , $194 , $259.99 , $450 ,Women's Apparel,Nov,17:00,Thursday,F
+19289,879, 87 , 87 , $201 , $269.99 , $450 ,Women's Apparel,Nov,10:00,Monday,F
+1624,932, 87 , 87 , $210 , $274.99 , $385 ,Women's Apparel,Nov,10:00,Wednesday,F
+1742,982, 87 , 87 , $221 , $284.99 , $495 ,Women's Apparel,Nov,10:00,Tuesday,F
+23895,79, 87 , 87 , $226 , $299.99 , $645 ,Men's Apparel,Oct,10:00,Saturday,F
+26788,317, 87 , 87 , $238 , $324.99 , $525 ,Women's Apparel,Oct,10:00,Sunday,F
+13181,638, 87 , 87 , $321 , $409.99 , $614 ,Women's Apparel,Oct,10:00,Monday,F
+21654,568, 87 , 87 , $333 , $424.99 , $569 ,Women's Apparel,Dec,17:00,Monday,F
+14206,288, 87 , 87 , $348 , $449.99 , $600 ,Footwear,Dec,10:00,Monday,F
+27176,663, 87 , 87 , $367 , $469.99 , $770 ,Women's Apparel,Dec,10:00,Thursday,F
+3672,929, 87 , 87 , $563 , $749.99 ," $1,170 ",Women's Apparel,Dec,10:00,Tuesday,F
+17351,359, 87 , 87 , $664 , $854.99 ," $1,230 ",Women's Apparel,Oct,10:00,Tuesday,F
+15278,290, 114 , 86 , $10 , $9.99 , $46 ,Footwear,Oct,10:00,Wednesday,F
+6217,295, 112 , 86 , $10 , $9.99 , $61 ,Footwear,Oct,10:00,Tuesday,F
+27911,249, 95 , 86 , $7 , $9.99 , $27 ,Footwear,Oct,10:00,Thursday,F
+13158,209, 109 , 86 , $6 , $9.99 , $44 ,Footwear,Oct,10:00,Wednesday,F
+2162,244, 90 , 86 , $6 , $9.99 , $47 ,Footwear,Nov,17:00,Monday,F
