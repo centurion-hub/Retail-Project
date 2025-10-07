@@ -7,27 +7,37 @@ The repo demonstrates a full pipeline from **feature engineering** → **truncat
 
 ## Dataset (Demo from Original File)
 
-- The file `data/demo_flashion_data_from_original.csv` contains the **first 1,000 rows** extracted from the original dataset 
-  `Flashion Art Science in Fashion Retailing.xlsx`.
+- The file `data/demo_flashion_data.csv` contains the **first 1,000 rows** extracted from the original dataset.
 - This subset is provided **solely for demonstration and testing**.
 - It maintains the same column structure and semantics as the full dataset but does **not represent the complete data**.
 - Any performance metrics (e.g., RMSE, R²) reported using this demo dataset should **not be interpreted as final production performance**.
 
 **Columns**
-- `Department`, `Month`, `Event Start DOW`, `Shipping Method`: categorical descriptors
-- `MSRP`, `Price`, `Cost`: pricing-related features
-- `Starting Inventory`, `Quantity Sold`: inventory & realized sales
-- `is_sold_out`: whether the item sold out (truncation indicator)
+The following columns are included:
+
+| Column | Description |
+|---------|-------------|
+| **Style#** | Unique product identifier for each SKU or fashion style |
+| **Event#** | Identifier of the flash-sale event the product belongs to |
+| **Starting Inventory** | Total inventory available at the start of the event |
+| **Quantity Sold** | Units sold during the event duration (typically 24 hours) |
+| **Cost** | Per-unit acquisition cost paid by Flashion to the designer |
+| **Price** | Per-unit selling price offered to customers during the event |
+| **MSRP** | Per unit Manufacturer's (Designer's) Suggested Retail Price |
+| **Department** | Flashion’s internal top-level product classification |
+| **Month** | Month when the event started (Oct = October, Nov = November, Dec = December) |
+| **Event Start Time** | Time of day when the flash-sale event began |
+| **Event Start DOW** | Day of week (e.g., Monday–Sunday) when the event started |
+| **Shipping Method** | “F” = Flashion owns inventory and ships to customer; “D” = designer ships directly (Flashion does not hold stock) |
 
 ---
 
 ## Project Structure
 ```
-Retail-FlashSale-Prediction/
+Retail_Project/
 │
 ├── data/
-│   ├── Flashion Art Science in Fashion Retailing.xlsx   # Original dataset
-│   └── demo_flashion_data_from_original.csv             # 1,000-row demo subset
+│   └── demo_flashion_data.csv             # 1,000-row demo subset
 │
 ├── src/
 │   └── retail_flashsale_demo.py     # End-to-end pipeline script
@@ -52,6 +62,6 @@ pip install -r requirements.txt
 python src/retail_flashsale_demo.py
 ```
 
-3) Outputs (plots, metrics) are saved to `results/`.
+3) Outputs (plots, metrics) are saved to `results/`. # All output files are saved under results/ and are automatically generated when you run the scripts.
 
 ---
